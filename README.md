@@ -10,7 +10,11 @@ dot -Tsvg chess.dot -o chess.svg
 
 This is my initial attempt. If there is a better organizational method, let me know! Also, I don't want these openings to be just limited to these ECO codes, I would like to go beyond with more variations.
 
-I would also like to make the SVG image and interactive program where if you click a bubble it will display the corresponing opening.
+TODO
+-------------
+
+- I would also like to make the SVG image and interactive program where if you click a bubble it will display the corresponing opening.
+- To fill in name each opening.
 
 
 
