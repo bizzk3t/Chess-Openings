@@ -10,4 +10,4 @@ dot -Tsvg chess.dot -o chess.svg
 
 This is my initial attempt. If there is a better organizational method, let me know! Also, I don't want these openings to be just limited to these ECO codes, I would like to go beyond with more variations.
 
-![](https://github.com/bizzk3t/Chess-Openings/blob/master/chess.svg)
+![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/chess.svg)
