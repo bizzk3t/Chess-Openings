@@ -14,4 +14,4 @@ I would also like to make the SVG image and interactive program where if you cli
 
 
 
-![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/chess.svg)
+![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/images/chess.png)
