@@ -47,8 +47,8 @@ digraph chess {
     MOVE_23 [label = "12.", shape="box"];
     MOVE_24 [label = "12...", shape="box"];
     MOVE_25 [label = "13.", shape="box"];
-    /*
     MOVE_26 [label = "13...", shape="box"];
+    /*
     MOVE_27 [label = "14.", shape="box"];
     MOVE_28 [label = "14...", shape="box"];
     MOVE_29 [label = "15.", shape="box"];
@@ -57,10 +57,10 @@ digraph chess {
 
     MOVE_01 -> MOVE_02 -> MOVE_03 -> MOVE_04 -> MOVE_05 -> MOVE_06 -> MOVE_07 -> MOVE_08 -> MOVE_09 ->
     MOVE_10 -> MOVE_11 -> MOVE_12 -> MOVE_13 -> MOVE_14 -> MOVE_15 -> MOVE_16 -> MOVE_17 -> MOVE_18 -> MOVE_19 ->
-    MOVE_20 -> MOVE_21 -> MOVE_22 -> MOVE_23 -> MOVE_24 -> MOVE_25;
+    MOVE_20 -> MOVE_21 -> MOVE_22 -> MOVE_23 -> MOVE_24 -> MOVE_25 -> MOVE_26;
 
 
-    //MOVE_26 -> MOVE_27 -> MOVE_28 -> MOVE_29 -> MOVE_30;
+    //MOVE_27 -> MOVE_28 -> MOVE_29 -> MOVE_30;
 
     A00 [label = "Uncommon Opening\n1. g4, a3, h3, etc"];
     A01 [label = "Nimzovich-Larsen Attack\n1. b3"];
@@ -134,14 +134,14 @@ digraph chess {
     A69 [label = "Benoni, Four Pawns Attack, Main Line\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3 O-O 9."];
     A70 [label = "Benoni, Classical with 7.Nf3\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3"];
     A71 [label = "Benoni, Classical, 8.Bg5\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5"];
-    A72 [label = "Benoni, Classical without 9.O-O\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A73 [label = "Benoni, Classical, 9.O-O\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A74 [label = "Benoni, Classical, 9...a6, 10.a4\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A75 [label = "Benoni, Classical with 9...a6, 10...Bg4\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A76 [label = "Benoni, Classical, 9...Re8\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A77 [label = "Benoni, Classical, 9...Re8, 10.Nd2\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A78 [label = "Benoni, Classical with Re8 and Na6\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
-    A79 [label = "Benoni, Classical, 11.f3\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"];
+    A72 [label = "Benoni, Classical without 9.O-O\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A73 [label = "Benoni, Classical, 9.O-O\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A74 [label = "Benoni, Classical, 9...a6, 10.a4\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A75 [label = "Benoni, Classical with 9...a6, 10...Bg4\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A76 [label = "Benoni, Classical, 9...Re8\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A77 [label = "Benoni, Classical, 9...Re8, 10.Nd2\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A78 [label = "Benoni, Classical with Re8 and Na6\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
+    A79 [label = "Benoni, Classical, 11.f3\n1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9."];
     A80 [label = "Dutch\n1. d4 f5"];
     A81 [label = "Dutch\n1. d4 f5 2. g3"];
     A82 [label = "Dutch, Staunton Gambit\n1. d4 f5 2. e4"];
@@ -214,14 +214,15 @@ digraph chess {
     A56 -> A60 -> A61 -> A62 -> A63 -> A64;
     A60 -> A65 -> A66 -> A67;
     A66 -> A68 -> A69;
-    A65 -> A70 -> A71 -> A72;
-    A71 -> A73;
-    A71 -> A74;
-    A71 -> A75;
-    A71 -> A76;
-    A71 -> A77;
-    A71 -> A78;
-    A71 -> A79;
+    A65 -> A70 -> A71;
+    A70 -> A72;
+    A70 -> A73;
+    A70 -> A74;
+    A70 -> A75;
+    A70 -> A76;
+    A70 -> A77;
+    A70 -> A78;
+    A70 -> A79;
     A40 -> A80 -> A81;
     A80 -> A82 -> A83;
     A80 -> A84 -> A85;
@@ -306,7 +307,9 @@ digraph chess {
     B56 -> B70 -> B71
     B70 -> B72 -> B73 -> B74;
     B72 -> B75 -> B76 -> B77 -> B78 -> B79;
-    B56 -> B80 -> B81 -> B82 -> B83 -> B84 -> B85;
+    B56 -> B80 -> B81;
+    B80 -> B82;
+    B80 -> B83 -> B84 -> B85;
     B80 -> B86 -> B87;
     B86 -> B88 -> B89;
     B56 -> B90 -> B91;
@@ -324,7 +327,7 @@ digraph chess {
     C68 [label = "Ruy Lopez, Exchange\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6"];
     C70 [label = "Ruy Lopez\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4"];
     C80 [label = "Ruy Lopez, Open\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4"];
-    C80 [label = "Ruy Lopez, Closed\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7"];
+    C84 [label = "Ruy Lopez, Closed\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7"];
 
     {rank=same; MOVE_02 C00 C20}
     {rank=same; MOVE_03 C23 C25 C40}
@@ -410,6 +413,24 @@ digraph chess {
     D80 [label = "Grunfeld\n1. d4 Nf6 2. c4 g6 3. Nc3 d5"];
     
     {rank=same; MOVE_02 D00}
+    {rank=same; MOVE_03 D02 D06}
+    {rank=same; MOVE_04 D07 D08 D10 D30}
+    {rank=same; MOVE_05 D01 D03 D04 D11 D21 D31}
+    {rank=same; MOVE_06 D05 D23 D32 D35 D70 D71 D80}
+    {rank=same; MOVE_07 D15 D24 D25 D37 D50 D81 D82 D90}
+    {rank=same; MOVE_08 D12 D13 D26 D38 D40 D43 D51 D53 D85}
+    {rank=same; MOVE_09 D09 D16 D41 D45 D73 D91 D92 D94 D96}
+    {rank=same; MOVE_10 D17 D39 D44 D83}
+    {rank=same; MOVE_11 D18 D22 D33 D36 D46 D52 D54 D55 D93 D95}
+    {rank=same; MOVE_12 D14 D27 D60 D77}
+    {rank=same; MOVE_13 D28 D42 D47 D56 D61 D63 D72 D74 D78 D86}
+    {rank=same; MOVE_14 D34 D58 D76 D79 D98}
+    {rank=same; MOVE_15 D62 D64 D66 D75 D84 D89 D99}
+    {rank=same; MOVE_16 D29 D48 D57 D59 D68 D87}
+    {rank=same; MOVE_17 D19 D65}
+    {rank=same; MOVE_18 D67}
+    {rank=same; MOVE_21 D49 D88}
+    {rank=same; MOVE_26 D69}
 
     D00 -> D01;
     D00 -> D02 -> D03;
@@ -417,7 +438,6 @@ digraph chess {
     D00 -> D06 -> D07;
     D06 -> D08 -> D09;
     D06 -> D10 -> D11 -> D12;
-    D11 -> D13;
     D11 -> D13 -> D14;
     D11 -> D15 -> D16 -> D17 -> D18 -> D19;
     D06 -> D20 -> D21 -> D22;
@@ -426,8 +446,8 @@ digraph chess {
     D06 -> D30 -> D31 -> D32 -> D33 -> D34;
     D31 -> D35 -> D36;
     D35 -> D37 -> D38 -> D39;
-    D35 -> D40 -> D41 -> D42;
-    D40 -> D43 -> D44;
+    D37 -> D40 -> D41 -> D42;
+    D37 -> D43 -> D44;
     D43 -> D45 -> D46 -> D47 -> D48 -> D49;
     D35 -> D50 -> D51 -> D52;
     D50 -> D53 -> D54;
@@ -436,7 +456,8 @@ digraph chess {
     D52 -> D60 -> D61 -> D62;
     D60 -> D63 -> D64 -> D65;
     D63 -> D66 -> D67;
-    D66 -> D68 -> D69;
+    D66 -> D68;
+    D66 -> D69;
     D06 -> D70;
     D06 -> D71 -> D72;
     D71 -> D73 -> D74 -> D75;
@@ -458,9 +479,27 @@ digraph chess {
     E12 [label = "Queens' Indian Defense\n1. d4 Nf6 2. c4 e6 3. Nf3 b6"];
     E20 [label = "Nimzo-Indian Defense\n1. d4 Nf6 2. c4 e6 3. Nc3 Bb4"];
     E60 [label = "King's-Indian Defense\n1. d4 Nf6 2. c4 g6"];
+
+    {rank=same; MOVE_04 E00 E60}
+    {rank=same; MOVE_05 E10 E61}
+    {rank=same; MOVE_06 E11 E12 E20}
+    {rank=same; MOVE_07 E01 E14 E15 E21 E22 E32 E40 E70}
+    {rank=same; MOVE_08 E33 E34 E41 E43 E46}
+    {rank=same; MOVE_09 E02 E04 E06 E24 E36 E42 E44 E47 E50 E62 E71 E72 E73 E76 E80 E90}
+    {rank=same; MOVE_10 E05 E16 E17 E23 E27 E35 E39 E45 E48 E81}
+    {rank=same; MOVE_11 E03 E26 E28 E77 E91}
+    {rank=same; MOVE_12 E07 E13 E31 E52 E53 E64 E67 E74 E82 E83 E85 E92}
+    {rank=same; MOVE_13 E08 E18 E25 E49 E65 E78 E87 E94}
+    {rank=same; MOVE_14 E56 E63 E75 E86 E88 E93 E97}
+    {rank=same; MOVE_15 E09 E54 E66 E68 E95}
+    {rank=same; MOVE_16 E55 E84 E89}
+    {rank=same; MOVE_17 E19 E58 E69 E79 E98}
+    {rank=same; MOVE_18 E57 E96}
+    {rank=same; MOVE_19 E59}
+    {rank=same; MOVE_20 E99}
     
     E00 -> E01 -> E02 -> E03;
-    E02 -> E04 -> E05;
+    E01 -> E04 -> E05;
     E01 -> E06 -> E07 -> E08 -> E09;
     E00 -> E10 -> E11;
     E10 -> E12 -> E13;
@@ -483,7 +522,8 @@ digraph chess {
     E40 -> E46 -> E47 -> E48 -> E49;
     E46 -> E50 -> E51 -> E52;
     E51 -> E53 -> E54 -> E55;
-    E53 -> E56 -> E57 -> E58 -> E59;
+    E53 -> E56 -> E57;
+    E56 -> E58 -> E59;
     E00 -> E60 -> E61 -> E62 -> E63;
     E62 -> E64 -> E65 -> E66;
     E62 -> E67 -> E68 -> E69;
