@@ -18,8 +18,9 @@
 
 digraph chess {
 
-    ranksep=.75;
-    splines=polyline;
+    // ranksep=.75;
+    // splines=polyline;
+    // node [shape=box];
 
     MOVE_01 [label = "1.", shape="box"];
     MOVE_02 [label = "1...", shape="box"];
