@@ -423,28 +423,116 @@ digraph chess {
     MOVE_01 -> MOVE_02 -> MOVE_03 -> MOVE_04 -> MOVE_05 -> MOVE_06 -> MOVE_07 -> MOVE_08 -> MOVE_09 ->
     MOVE_10 -> MOVE_11 -> MOVE_12 -> MOVE_13 -> MOVE_14 -> MOVE_15 -> MOVE_16 -> MOVE_17 -> MOVE_18 -> MOVE_19 ->
     MOVE_20 -> MOVE_21 -> MOVE_22 -> MOVE_23 -> MOVE_24 -> MOVE_25 -> MOVE_26 -> MOVE_27 -> MOVE_28 -> MOVE_29 -> MOVE_30;
-    {rank=same; MOVE_01 A00 A01 A02 A04 A10 A40}
+
+    {rank=same; MOVE_01 A00 A01 A02 A04 A10 A40 B00}
+    {rank=same; MOVE_01 B00}
+
     {rank=same; MOVE_02 A03 A11 A13 A15 A20 A30 A41 A43 A45 A80}
+    {rank=same; MOVE_02 B01 B02 B06 B10 B20}
+    {rank=same; MOVE_02 C00 C20}
+    {rank=same; MOVE_02 D00}
+
     {rank=same; MOVE_03 A07 A09 A16 A21 A34 A46 A50 A81 A82 A84}
+    {rank=same; MOVE_03 B12 B21 B22 B23 B27}
+    {rank=same; MOVE_03 B12 B21 B22 B23 B27}
+    {rank=same; MOVE_03 B12 B21 B22 B23 B27}
+
     {rank=same; MOVE_04 A17 A22 A35 A44 A47 A48 A53 A56}
+    {rank=same; MOVE_04 B07 B28 B29 B30 B40 B50}
+    {rank=same; MOVE_04 B07 B28 B29 B30 B40 B50}
+    {rank=same; MOVE_04 B07 B28 B29 B30 B40 B50}
+
     {rank=same; MOVE_05 A12 A18 A27 A31 A36 A49 A85 A86}
+    {rank=same; MOVE_05 B03 B15 B24 B51}
+    {rank=same; MOVE_05 C02 C03}
+    {rank=same; MOVE_05 B03 B15 B24 B51}
+
     {rank=same; MOVE_06 A19 A23 A24 A28 A52 A57 A60}
+    {rank=same; MOVE_06 B11 B13 B31 B52}
+    {rank=same; MOVE_06 C05}
+    {rank=same; MOVE_06 B11 B13 B31 B52}
+
     {rank=same; MOVE_07 A29 A42 A54 A83 A90}
+    {rank=same; MOVE_07 B04 B33 B53 B54}
+    {rank=same; MOVE_07 A29 A42 A54 A83 A90}
+    {rank=same; MOVE_07 A29 A42 A54 A83 A90}
+
     {rank=same; MOVE_08 A32 A91}
+    {rank=same; MOVE_08 B05 B08 B09 B17 B18 B32 B41 B44}
+    {rank=same; MOVE_08 C04}
+    {rank=same; MOVE_08 A32 A91}
+
     {rank=same; MOVE_09 A14 A37 A55 A58 A87}
+    {rank=same; MOVE_09 B34 B36 B42 B43 B45 B56}
+    {rank=same; MOVE_09 C01}
+    {rank=same; MOVE_09 A14 A37 A55 A58 A87}
+
     {rank=same; MOVE_10 A26 A33 A38 A92}
+    {rank=same; MOVE_10 B14 B16 B25 B37 B46 B47 B70 B80 B90}
+    {rank=same; MOVE_10 A26 A33 A38 A92}
+    {rank=same; MOVE_10 A26 A33 A38 A92}
+
     {rank=same; MOVE_11 A65}
+    {rank=same; MOVE_11 B26 B38 B48 B55 B57 B58 B60 B62 B71 B72 B81 B82 B83 B86 B91 B92 B93 B94}
+    {rank=same; MOVE_11 A65}
+    {rank=same; MOVE_11 A65}
+
     {rank=same; MOVE_12 A61 A96}
+    {rank=same; MOVE_12 B84 B88 B95}
+    {rank=same; MOVE_12 A61 A96}
+    {rank=same; MOVE_12 A61 A96}
+
     {rank=same; MOVE_13 A39 A59 A66 A70 A93}
+    {rank=same; MOVE_13 B35 B49 B59 B61 B63 B75 B89 B96}
+    {rank=same; MOVE_13 A39 A59 A66 A70 A93}
+    {rank=same; MOVE_13 A39 A59 A66 A70 A93}
+
     {rank=same; MOVE_14 A88 A89 A95 A97}
+    {rank=same; MOVE_14 B19 B39 B66 B76 B87 B97 B98}
+    {rank=same; MOVE_14 A88 A89 A95 A97}
+    {rank=same; MOVE_14 A88 A89 A95 A97}
+
     {rank=same; MOVE_15 A67 A71 A94 A98 A99}
+    {rank=same; MOVE_15 B73}
+    {rank=same; MOVE_15 A67 A71 A94 A98 A99}
+    {rank=same; MOVE_15 A67 A71 A94 A98 A99}
+
     {rank=same; MOVE_16 A62 A68 A69}
+    {rank=same; MOVE_16 B67 B85}
+    {rank=same; MOVE_16 A62 A68 A69}
+    {rank=same; MOVE_16 A62 A68 A69}
+
     {rank=same; MOVE_17 A72 A73 A78}
+    {rank=same; MOVE_17 B64 B74 B77}
+    {rank=same; MOVE_17 A72 A73 A78}
+    {rank=same; MOVE_17 A72 A73 A78}
+
     {rank=same; MOVE_18 A63 A76}
+    {rank=same; MOVE_18 B68 B99}
+    {rank=same; MOVE_18 A63 A76}
+    {rank=same; MOVE_18 A63 A76}
+
     {rank=same; MOVE_19 A74 A77}
+    {rank=same; MOVE_19 B65 B78}
+    {rank=same; MOVE_19 A74 A77}
+    {rank=same; MOVE_19 A74 A77}
+
     {rank=same; MOVE_20 A75}
+    {rank=same; MOVE_20 A75}
+    {rank=same; MOVE_20 A75}
+    {rank=same; MOVE_20 A75}
+
     {rank=same; MOVE_21 A79}
+    {rank=same; MOVE_21 B69}
+    {rank=same; MOVE_21 A79}
+    {rank=same; MOVE_21 A79}
+
     {rank=same; MOVE_22 A64}
+    {rank=same; MOVE_22 A64}
+    {rank=same; MOVE_22 A64}
+    {rank=same; MOVE_22 A64}
+
+    {rank=same; MOVE_23 B79}
 
 
 
