@@ -17,6 +17,8 @@
 #
 
 digraph chess {
+
+
     A00 [label = "Uncommon Opening\n1. g4, a3, h3, etc"];
     A01 [label = "Nimzovich-Larsen Attack\n1. b3"];
     A02 [label = "Bird's Opening\n1. f4"];
@@ -386,6 +388,63 @@ digraph chess {
     E70 -> E90 -> E91 -> E92 -> E93;
     E92 -> E94 -> E95 -> E96;
     E94 -> E97 -> E98 -> E99;
+
+    MOVE_01 [label = "1.", shape="box"];
+    MOVE_02 [label = "1...", shape="box"];
+    MOVE_03 [label = "2.", shape="box"];
+    MOVE_04 [label = "2...", shape="box"];
+    MOVE_05 [label = "3.", shape="box"];
+    MOVE_06 [label = "3...", shape="box"];
+    MOVE_07 [label = "4.", shape="box"];
+    MOVE_08 [label = "4...", shape="box"];
+    MOVE_09 [label = "5.", shape="box"];
+    MOVE_10 [label = "5...", shape="box"];
+    MOVE_11 [label = "6.", shape="box"];
+    MOVE_12 [label = "6...", shape="box"];
+    MOVE_13 [label = "7.", shape="box"];
+    MOVE_14 [label = "7...", shape="box"];
+    MOVE_15 [label = "8.", shape="box"];
+    MOVE_16 [label = "8...", shape="box"];
+    MOVE_17 [label = "9.", shape="box"];
+    MOVE_18 [label = "9...", shape="box"];
+    MOVE_19 [label = "10.", shape="box"];
+    MOVE_20 [label = "10...", shape="box"];
+    MOVE_21 [label = "11.", shape="box"];
+    MOVE_22 [label = "11...", shape="box"];
+    MOVE_23 [label = "12.", shape="box"];
+    MOVE_24 [label = "12...", shape="box"];
+    MOVE_25 [label = "13.", shape="box"];
+    MOVE_26 [label = "13...", shape="box"];
+    MOVE_27 [label = "14.", shape="box"];
+    MOVE_28 [label = "14...", shape="box"];
+    MOVE_29 [label = "15.", shape="box"];
+    MOVE_30 [label = "15...", shape="box"];
+
+    MOVE_01 -> MOVE_02 -> MOVE_03 -> MOVE_04 -> MOVE_05 -> MOVE_06 -> MOVE_07 -> MOVE_08 -> MOVE_09 ->
+    MOVE_10 -> MOVE_11 -> MOVE_12 -> MOVE_13 -> MOVE_14 -> MOVE_15 -> MOVE_16 -> MOVE_17 -> MOVE_18 -> MOVE_19 ->
+    MOVE_20 -> MOVE_21 -> MOVE_22 -> MOVE_23 -> MOVE_24 -> MOVE_25 -> MOVE_26 -> MOVE_27 -> MOVE_28 -> MOVE_29 -> MOVE_30;
+    {rank=same; MOVE_01 A00 A01 A02 A04 A10 A40}
+    {rank=same; MOVE_02 A03 A11 A13 A15 A20 A30 A41 A43 A45 A80}
+    {rank=same; MOVE_03 A07 A09 A16 A21 A34 A46 A50 A81 A82 A84}
+    {rank=same; MOVE_04 A17 A22 A35 A44 A47 A48 A53 A56}
+    {rank=same; MOVE_05 A12 A18 A27 A31 A36 A49 A85 A86}
+    {rank=same; MOVE_06 A19 A23 A24 A28 A52 A57 A60}
+    {rank=same; MOVE_07 A29 A42 A54 A83 A90}
+    {rank=same; MOVE_08 A32 A91}
+    {rank=same; MOVE_09 A14 A37 A55 A58 A87}
+    {rank=same; MOVE_10 A26 A33 A38 A92}
+    {rank=same; MOVE_11 A65}
+    {rank=same; MOVE_12 A61 A96}
+    {rank=same; MOVE_13 A39 A59 A66 A70 A93}
+    {rank=same; MOVE_14 A88 A89 A95 A97}
+    {rank=same; MOVE_15 A67 A71 A94 A98 A99}
+    {rank=same; MOVE_16 A62 A68 A69}
+    {rank=same; MOVE_17 A72 A73 A78}
+    {rank=same; MOVE_18 A63 A76}
+    {rank=same; MOVE_19 A74 A77}
+    {rank=same; MOVE_20 A75}
+    {rank=same; MOVE_21 A79}
+    {rank=same; MOVE_22 A64}
 
 
 
