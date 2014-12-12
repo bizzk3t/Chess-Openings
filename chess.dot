@@ -20,6 +20,7 @@ digraph chess {
 
     ranksep=0.25;
     nodesep=0.25;
+    graph[size="500, 500"];
     // splines=polyline;
     // node[color=none];
     // node[shape=plaintext];
