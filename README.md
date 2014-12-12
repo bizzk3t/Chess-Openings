@@ -14,8 +14,10 @@ TODO
 -------------
 
 - I would also like to make the SVG image and interactive program where if you click a bubble it will display the corresponing opening.
-- To fill in name each opening.
 
+COMPLETED
+------------
+- Added each opening and title
 
 
 ![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/images/chess.png)
