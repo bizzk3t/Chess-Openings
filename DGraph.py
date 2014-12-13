@@ -74,6 +74,9 @@ class DGraph:
                 }
 
         total = total + 'digraph mygraph {\n'
+        total = total + 'ranksep=0.25;\n'
+        total = total + 'nodesep=0.25;\n'
+        total = total + 'graph[size="500, 500"];\n'
         total = total + 'MOVE_01 [label="1." shape="box"]\n'
         total = total + 'MOVE_02 [label="1..." shape="box"]\n'
         total = total + 'MOVE_03 [label="2." shape="box"]\n'
