@@ -52,28 +52,92 @@ class DGraph:
         nodes = {}
         total = ''
         for u in thenodes:
-            nodes[str(u)]='a_'+str(i)
+            #nodes[str(u)]='a_'+str(i)
+            nodes[str(u)]=str(u)
             i = i+1
         
+        moves = {   1:'{rank=same;MOVE_01;',2:'{rank=same;MOVE_02;',
+                    3:'{rank=same;MOVE_03;',4:'{rank=same;MOVE_04;',
+                    5:'{rank=same;MOVE_05;',6:'{rank=same;MOVE_06;',
+                    7:'{rank=same;MOVE_07;',8:'{rank=same;MOVE_08;',
+                    9:'{rank=same;MOVE_09;',10:'{rank=same;MOVE_10;',
+                    11:'{rank=same;MOVE_11;',12:'{rank=same;MOVE_12;',
+                    13:'{rank=same;MOVE_13;',14:'{rank=same;MOVE_14;',
+                    15:'{rank=same;MOVE_15;',16:'{rank=same;MOVE_16;',
+                    17:'{rank=same;MOVE_17;',18:'{rank=same;MOVE_18;',
+                    19:'{rank=same;MOVE_19;',20:'{rank=same;MOVE_20;',
+                    21:'{rank=same;MOVE_21;',22:'{rank=same;MOVE_22;',
+                    23:'{rank=same;MOVE_23;',24:'{rank=same;MOVE_24;',
+                    25:'{rank=same;MOVE_25;',26:'{rank=same;MOVE_26;',
+                    27:'{rank=same;MOVE_27;',28:'{rank=same;MOVE_28;',
+                    29:'{rank=same;MOVE_29;',30:'{rank=same;MOVE_30;'
+                }
 
-        total = total + "digraph mygraph {"
+        total = total + 'digraph mygraph {\n'
+        total = total + 'MOVE_01 [label="1." shape="box"]\n'
+        total = total + 'MOVE_02 [label="1..." shape="box"]\n'
+        total = total + 'MOVE_03 [label="2." shape="box"]\n'
+        total = total + 'MOVE_04 [label="2..." shape="box"]\n'
+        total = total + 'MOVE_05 [label="3." shape="box"]\n'
+        total = total + 'MOVE_06 [label="3..." shape="box"]\n'
+        total = total + 'MOVE_07 [label="4." shape="box"]\n'
+        total = total + 'MOVE_08 [label="4..." shape="box"]\n'
+        total = total + 'MOVE_09 [label="5." shape="box"]\n'
+        total = total + 'MOVE_10 [label="5..." shape="box"]\n'
+        total = total + 'MOVE_11 [label="6." shape="box"]\n'
+        total = total + 'MOVE_12 [label="6..." shape="box"]\n'
+        total = total + 'MOVE_13 [label="7." shape="box"]\n'
+        total = total + 'MOVE_14 [label="7..." shape="box"]\n'
+        total = total + 'MOVE_15 [label="8." shape="box"]\n'
+        total = total + 'MOVE_16 [label="8..." shape="box"]\n'
+        total = total + 'MOVE_17 [label="9." shape="box"]\n'
+        total = total + 'MOVE_18 [label="9..." shape="box"]\n'
+        total = total + 'MOVE_19 [label="10." shape="box"]\n'
+        total = total + 'MOVE_20 [label="10..." shape="box"]\n'
+        total = total + 'MOVE_21 [label="11." shape="box"]\n'
+        total = total + 'MOVE_22 [label="11..." shape="box"]\n'
+        total = total + 'MOVE_23 [label="12." shape="box"]\n'
+        total = total + 'MOVE_24 [label="12..." shape="box"]\n'
+        total = total + 'MOVE_25 [label="13." shape="box"]\n'
+        total = total + 'MOVE_26 [label="13..." shape="box"]\n'
+        total = total + 'MOVE_27 [label="14." shape="box"]\n'
+        total = total + 'MOVE_28 [label="14..." shape="box"]\n'
+        total = total + 'MOVE_29 [label="15." shape="box"]\n'
+        total = total + 'MOVE_30 [label="15..." shape="box"]\n'
+
+        total = total + 'MOVE_01->MOVE_02->MOVE_03->MOVE_04->MOVE_05->MOVE_06->MOVE_07->MOVE_08->MOVE_09->MOVE_10->'
+        total = total + 'MOVE_11->MOVE_12->MOVE_13->MOVE_14->MOVE_15->MOVE_16->MOVE_17->MOVE_18->MOVE_19->MOVE_20->'
+        total = total + 'MOVE_21->MOVE_22->MOVE_23->MOVE_24->MOVE_25->MOVE_26->MOVE_27->MOVE_28->MOVE_29->MOVE_30\n'
+
         for n in nodes.keys():
             #total = total + nodes[n] + ' [label="'+n+'\n'+openings[n]['name']+'\n'+str(openings[n]['moves']) + '"]\n'
             total = total + nodes[n] + ' [label="'
-            total = total + n +'\n'
-            total = total + openings[n]['name']+'\n'
+            total = total + n +'\\n'
+            total = total + openings[n]['name']+'\\n'
             for z in range(len(openings[n]['moves'])):
                 if z % 2 == 0:
                     total = total + str((z//2)+1) + '. ' + openings[n]['moves'][z] + ' '
                 else:
                     total = total +  openings[n]['moves'][z] + ' '
+            #print len(openings[n]['moves']), n, openings[n]['moves']
+            moves[len(openings[n]['moves'])] = moves[len(openings[n]['moves'])] + n + ';'
+            total = total + '"'
+            #print len(self.getNeighbors(n))
+            if len(self.getNeighbors(n)) == 9:
+                total = total + ' color="red"]\n'
+            else:
+                total = total + ']\n'
 
-            total = total + '"]\n'
+        for x in moves.values():
+            total = total + x + '}\n'
+
+
 
 
         for e in self.getEdgeSet(): 
             (u,v) = e 
-            total = total + nodes[str(u)] + ' -> ' + nodes[str(v)] + ' [label="' + str(self.getEdgeWt(u,v)) + '"]\n'
+            #total = total + nodes[str(u)] + ' -> ' + nodes[str(v)] + ' [label="' + str(self.getEdgeWt(u,v)) + '"]\n'
+            total = total + nodes[str(u)] + ' -> ' + nodes[str(v)] + ';\n'
         total = total + '}'
         return total
 

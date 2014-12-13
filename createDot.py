@@ -11,6 +11,6 @@ if __name__ == "__main__":
     #print G.getNodeSet()
     le = open("le.dot", 'w')
     k = G.drawDOT()
-    print k
+    #print k
     le.write(k)
 	
