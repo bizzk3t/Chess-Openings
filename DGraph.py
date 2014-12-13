@@ -109,7 +109,7 @@ class DGraph:
         total = total + 'MOVE_11->MOVE_12->MOVE_13->MOVE_14->MOVE_15->MOVE_16->MOVE_17->MOVE_18->MOVE_19->MOVE_20->'
         total = total + 'MOVE_21->MOVE_22->MOVE_23->MOVE_24->MOVE_25->MOVE_26->MOVE_27->MOVE_28->MOVE_29->MOVE_30\n'
 
-        for n in nodes.keys():
+        for n in sorted(nodes.keys()):
             #total = total + nodes[n] + ' [label="'+n+'\n'+openings[n]['name']+'\n'+str(openings[n]['moves']) + '"]\n'
             total = total + nodes[n] + ' [label="'
             total = total + n +'\\n'
@@ -121,10 +121,19 @@ class DGraph:
                     total = total +  openings[n]['moves'][z] + ' '
             #print len(openings[n]['moves']), n, openings[n]['moves']
             moves[len(openings[n]['moves'])] = moves[len(openings[n]['moves'])] + n + ';'
-            total = total + '"'
-            #print len(self.getNeighbors(n))
-            if len(self.getNeighbors(n)) == 9:
+            total = total + '" style="filled"'
+
+            num = n[0]
+            if num == 'A':
                 total = total + ' color="red"]\n'
+            elif num == 'B':
+                total = total + ' color="green"]\n'
+            elif num == 'C':
+                total = total + ' color="blue"]\n'
+            elif num == 'D':
+                total = total + ' color="yellow"]\n'
+            elif num == 'E':
+                total = total + ' color="orange"]\n'
             else:
                 total = total + ']\n'
 
