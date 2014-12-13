@@ -44,7 +44,7 @@ class DGraph:
 
 
     def drawDOT(self):
-        openings_data = open("openings.json")
+        openings_data = open('openings.json')
         openings = json.load(openings_data)
 
         thenodes = self.getNodeSet()
