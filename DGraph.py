@@ -56,20 +56,25 @@ class DGraph:
             i = i+1
         
 
-        #print "digraph mygraph {"
         total = total + "digraph mygraph {"
         for n in nodes.keys():
-            #print nodes[n] + ' [label="' + n + '"]'
-            #total = total + nodes[n] + ' [label="' + n + '"]\n'
-            total = total + nodes[n] + ' [label="'+n+'\n'+openings[n]['name']+'\n'+str(openings[n]['moves']) + '"]\n'
+            #total = total + nodes[n] + ' [label="'+n+'\n'+openings[n]['name']+'\n'+str(openings[n]['moves']) + '"]\n'
+            total = total + nodes[n] + ' [label="'
+            total = total + n +'\n'
+            total = total + openings[n]['name']+'\n'
+            for z in range(len(openings[n]['moves'])):
+                if z % 2 == 0:
+                    total = total + str((z//2)+1) + '. ' + openings[n]['moves'][z] + ' '
+                else:
+                    total = total +  openings[n]['moves'][z] + ' '
+
+            total = total + '"]\n'
 
 
         for e in self.getEdgeSet(): 
             (u,v) = e 
-            #print nodes[str(u)] + ' -> ' + nodes[str(v)] + ' [label="' + str(self.getEdgeWt(u,v)) + '"]'
             total = total + nodes[str(u)] + ' -> ' + nodes[str(v)] + ' [label="' + str(self.getEdgeWt(u,v)) + '"]\n'
         total = total + '}'
-        #print '}'
         return total
 
 
