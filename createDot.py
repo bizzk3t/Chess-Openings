@@ -4,16 +4,13 @@ import DGraph
 import UGraph
 
 if __name__ == "__main__":
-    tree_data = open("tree.json")
+    tree_data = open("le.json")
     tree = json.load(tree_data)
 
     G = DGraph.DGraph(tree)
-    U = UGraph.UGraph(tree)
-    print len(tree)
-    print len(G.getNodeSet())
-    print len(U.getNodeSet())
-    #print DGraph.trygraph()
-    #print G['D45']
-    #G.drawDOT()
-    #G.drawDOT()
+    #print G.getNodeSet()
+    le = open("le.dot", 'w')
+    k = G.drawDOT()
+    print k
+    le.write(k)
 	

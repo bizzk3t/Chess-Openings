@@ -1,0 +1,1990 @@
+digraph mygraph {a_0 [label="E68
+King's-Indian, Fianchetto, Classical Variation, 8.e4
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'Nbd7', u'O-O', u'e5', u'e4']"]
+a_1 [label="E69
+King's-Indian, Fianchetto, Classical Main line, 8.e4
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'Nbd7', u'O-O', u'e5', u'e4', u'c6', u'h3']"]
+a_2 [label="E60
+King's-Indian Defense
+[u'd4', u'Nf6', u'c4', u'g6']"]
+a_3 [label="E61
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3']"]
+a_4 [label="E62
+King's-Indian, Fianchetto
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3']"]
+a_5 [label="E63
+King's-Indian, Fianchetto, Panno Variation
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'Nc6', u'O-O', u'a6']"]
+a_6 [label="E64
+King's-Indian, Fianchetto, Yugoslav System
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'c5']"]
+a_7 [label="E65
+King's-Indian, Fianchetto, Yugoslav, 7.O-O
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'c5', u'O-O']"]
+a_8 [label="E66
+King's-Indian, Fianchetto, Yugoslav Panno
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'c5', u'O-O', u'Nc6', u'd5']"]
+a_9 [label="E67
+King's-Indian, Fianchetto
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'Nf3', u'd6', u'g3', u'O-O', u'Bg2', u'Nbd7']"]
+a_10 [label="E99
+King's-Indian, Orthodox, Taimanov
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'O-O', u'Nc6', u'd5', u'Ne7', u'Ne1', u'Nd7', u'f3', u'f5']"]
+a_11 [label="B29
+Sicilian, Nimzovich-Rubenstein
+[u'e4', u'c5', u'Nf3', u'Nf6']"]
+a_12 [label="B28
+Sicilian, O'Kelly Variation
+[u'e4', u'c5', u'Nf3', u'a6']"]
+a_13 [label="B27
+Sicilian
+[u'e4', u'c5', u'Nf3']"]
+a_14 [label="B26
+Sicilian, Closed, 6.Be3
+[u'e4', u'c5', u'Nc3', u'Nc6', u'g3', u'g6', u'Bg2', u'Bg7', u'd3', u'd6', u'Be3']"]
+a_15 [label="B25
+Sicilian, Closed
+[u'e4', u'c5', u'Nc3', u'Nc6', u'g3', u'g6', u'Bg2', u'Bg7', u'd3', u'd6']"]
+a_16 [label="B24
+Sicilian, Closed
+[u'e4', u'c5', u'Nc3', u'Nc6', u'g3']"]
+a_17 [label="B23
+Sicilian, Closed
+[u'e4', u'c5', u'Nc3']"]
+a_18 [label="B22
+Sicilian, Alapin
+[u'e4', u'c5', u'c3']"]
+a_19 [label="B21
+Sicilian, 2.f4 and 2.d4
+[u'e4', u'c5', u'f4']"]
+a_20 [label="B20
+Sicilian
+[u'e4', u'c5']"]
+a_21 [label="D72
+Neo-Grunfeld, 5.cd, Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'cxd5', u'Nxd5', u'e4', u'Nb6', u'Ne2']"]
+a_22 [label="D73
+Neo-Grunfeld, 5.Nf3
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3']"]
+a_23 [label="D70
+Neo-Grunfeld Defense
+[u'd4', u'Nf6', u'c4', u'g6', u'f3', u'd5']"]
+a_24 [label="D71
+Neo-Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5']"]
+a_25 [label="D76
+Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'cxd5', u'Nxd5', u'O-O', u'Nb6']"]
+a_26 [label="D77
+Neo-Grunfeld, 6.O-O
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'O-O']"]
+a_27 [label="D74
+Neo-Grunfeld, 6.cd Nxd5, 7.O-O
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'cxd5', u'Nxd5', u'O-O']"]
+a_28 [label="D75
+Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'cxd5', u'Nxd5', u'O-O', u'c5', u'dxc5']"]
+a_29 [label="D78
+Neo-Grunfeld, 6.O-O c6
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'O-O', u'c6']"]
+a_30 [label="D79
+Neo-Grunfeld, 6.O-O, Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'g3', u'd5', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'O-O', u'c6', u'cxd5', u'cxd5']"]
+a_31 [label="A51
+Budapest Gambit
+[u'd4', u'Nf6', u'c4', u'e5']"]
+a_32 [label="A50
+Queen's Pawn Game
+[u'd4', u'Nf6', u'c4']"]
+a_33 [label="A53
+Old Indian
+[u'd4', u'Nf6', u'c4', u'd6']"]
+a_34 [label="A52
+Budapest Gambit
+[u'd4', u'Nf6', u'c4', u'e5', u'dxe5', u'Ng4']"]
+a_35 [label="A55
+Old Indian, Main line
+[u'd4', u'Nf6', u'c4', u'd6', u'Nc3', u'e5', u'Nf3', u'Nbd7', u'e4']"]
+a_36 [label="A54
+Old Indian, Ukranian Variation, Nf3
+[u'd4', u'Nf6', u'c4', u'd6', u'Nc3', u'e5', u'Nf3']"]
+a_37 [label="A57
+Benko Gambit
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'b5']"]
+a_38 [label="A56
+Benoni Defense
+[u'd4', u'Nf6', u'c4', u'c5']"]
+a_39 [label="A59
+Benko Gambit
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'b5', u'cxb5', u'a6', u'bxa6', u'Bxa6', u'Nc3', u'd6', u'e4']"]
+a_40 [label="A58
+Benko Gambit
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'b5', u'cxb5', u'a6', u'bxa6']"]
+a_41 [label="C44
+King's Pawn Game
+[u'e4', u'e5', u'Nf3', u'Nc6']"]
+a_42 [label="C45
+Scotch Game
+[u'e4', u'e5', u'Nf3', u'Nc6', u'd4', u'exd4', u'Nxd4']"]
+a_43 [label="C46
+Three Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Nc3']"]
+a_44 [label="C47
+Four Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Nc3', u'Nf6']"]
+a_45 [label="C40
+King's Knight Opening
+[u'e4', u'e5', u'Nf3']"]
+a_46 [label="C41
+Philidor Defense
+[u'e4', u'e5', u'Nf3', u'd6']"]
+a_47 [label="C42
+Petrov Defense
+[u'e4', u'e5', u'Nf3', u'Nf6']"]
+a_48 [label="C43
+Petrov, Modern Attack
+[u'e4', u'e5', u'Nf3', u'Nf6', u'd4', u'exd4', u'e5', u'Ne4', u'Qxd4']"]
+a_49 [label="C48
+Four Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Nc3', u'Nf6', u'Bb5']"]
+a_50 [label="C49
+Four Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Nc3', u'Nf6', u'Bb5', u'Bb4']"]
+a_51 [label="D89
+Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'cxd5', u'Nxd5', u'e4', u'Nxc3', u'bxc3', u'Bg7', u'Bc4', u'O-O', u'Ne2']"]
+a_52 [label="D88
+Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'cxd5', u'Nxd5', u'e4', u'Nxc3', u'bxc3', u'Bg7', u'Bc4', u'O-O', u'Ne2']"]
+a_53 [label="D87
+Grunfeld, Exchange
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'cxd5', u'Nxd5', u'e4', u'Nxc3', u'bxc3', u'Bg7', u'Bc4', u'O-O', u'Ne2', u'c5']"]
+a_54 [label="D86
+Grunfeld, Exchange
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'cxd5', u'Nxd5', u'e4', u'Nxc3', u'bxc3', u'Bg7', u'Bc4']"]
+a_55 [label="D85
+Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'cxd5', u'Nxd5']"]
+a_56 [label="D84
+Grunfeld, Grunfeld Gambit Accepted
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Bf4', u'Bg7', u'e3', u'O-O', u'cxd5', u'Nxd5', u'Nxd5', u'Qxd5', u'Bxc7']"]
+a_57 [label="D83
+Grunfeld, Grunfeld Gambit
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Bf4', u'Bg7', u'e3', u'O-O']"]
+a_58 [label="D82
+Grunfeld, Bf4
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Bf4']"]
+a_59 [label="D81
+Grunfeld, Russian Variation
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Qb3']"]
+a_60 [label="D80
+Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5']"]
+a_61 [label="B98
+Sicilian, Najdorf
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Bg5', u'e6', u'f4', u'Be7']"]
+a_62 [label="B99
+Sicilian, Najdorf, 7...Be7 Main line
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Bg5', u'e6', u'f4', u'Be7', u'Qf3', u'Qc7', u'O-O-O', u'Nbd7']"]
+a_63 [label="B96
+Sicilian, Najdorf
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Bg5', u'e6', u'f4']"]
+a_64 [label="B97
+Sicilian, Najdorf
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Bg5', u'e6', u'f4', u'Qb6']"]
+a_65 [label="B94
+Sicilian, Najdorf
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Bg5']"]
+a_66 [label="B95
+Sicilian, Najdorf, 6...e6
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Bg5', u'e6']"]
+a_67 [label="B92
+Sicilian, Najdorf, Opocensky Variation
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'Be2']"]
+a_68 [label="B93
+Sicilian, Najdorf, 6.f4
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'f4']"]
+a_69 [label="B90
+Sicilian, Najdorf
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6']"]
+a_70 [label="B91
+Sicilian, Najdorf, Zagreb (Fianchetto) Variation
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'a6', u'g3']"]
+a_71 [label="E24
+Nimzo-Indian, Samisch
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'a3', u'Bxc3+', u'bxc3']"]
+a_72 [label="E25
+Nimzo-Indian, Samisch
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'a3', u'Bxc3+', u'bxc3', u'c5', u'f3', u'd5', u'cxd5']"]
+a_73 [label="E26
+Nimzo-Indian, Samisch
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'a3', u'Bxc3+', u'bxc3', u'c5', u'e3']"]
+a_74 [label="E27
+Nimzo-Indian, Samisch Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'a3', u'Bxc3+', u'bxc3', u'O-O']"]
+a_75 [label="E20
+Nimzo-Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4']"]
+a_76 [label="E21
+Nimzo-Indian, Three Knights
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Nf3']"]
+a_77 [label="E22
+Nimzo-Indian, Spielmann Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qb3']"]
+a_78 [label="E23
+Nimzo-Indian, Spielmann
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qb3', u'c5', u'dxc5', u'Nc6']"]
+a_79 [label="E28
+Nimzo-Indian, Samisch Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'a3', u'Bxc3+', u'bxc3', u'O-O', u'e3']"]
+a_80 [label="E29
+Nimzo-Indian, Samisch
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'a3', u'Bxc3+', u'bxc3', u'O-O', u'e3', u'c5', u'Bd3', u'Nc6']"]
+a_81 [label="E95
+King's-Indian, Orthodox, 7...Nbd7, 8.Re1
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'O-O', u'Nbd7', u'Re1']"]
+a_82 [label="E94
+King's-Indian, Orthodox
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'O-O']"]
+a_83 [label="D38
+Queens's Gambit Declined, Ragozin Variation
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'Bb4']"]
+a_84 [label="D39
+Queens's Gambit Declined, Ragozin, Vienna Variation
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'Bb4', u'Bg5', u'dxc4']"]
+a_85 [label="D36
+Queens's Gambit Declined, Exchange, Positional line, 6.Qc2
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'cxd5', u'exd5', u'Bg5', u'c6', u'Qc2']"]
+a_86 [label="D37
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3']"]
+a_87 [label="D34
+Queens's Gambit Declined, Tarrasch
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'c5', u'cxd5', u'exd5', u'Nf3', u'Nc6', u'g3', u'Nf6', u'Bg2', u'Be7']"]
+a_88 [label="D35
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6']"]
+a_89 [label="D32
+Queens's Gambit Declined, Tarrasch
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'c5']"]
+a_90 [label="D33
+Queens's Gambit Declined, Tarrasch
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'c5', u'cxd5', u'exd5', u'Nf3', u'Nc6', u'g3']"]
+a_91 [label="D30
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6']"]
+a_92 [label="D31
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3']"]
+a_93 [label="E91
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2']"]
+a_94 [label="E90
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3']"]
+a_95 [label="E93
+King's-Indian, Petrosian System
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'd5', u'Nbd7']"]
+a_96 [label="E92
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5']"]
+a_97 [label="A99
+Dutch, Ilyin-Genevsky Variation with b3
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd6', u'Nc3', u'Qe8', u'b3']"]
+a_98 [label="A98
+Dutch, Ilyin-Genevsky Variation with Qc2
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd6', u'Nc3', u'Qe8', u'Qc2']"]
+a_99 [label="E97
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'O-O', u'Nc6']"]
+a_100 [label="E96
+King's-Indian, Orthodox, 7...Nbd7, Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'O-O', u'Nbd7', u'Re1', u'c6', u'Bf1', u'a5']"]
+a_101 [label="A95
+Dutch, Stonewall
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd5', u'Nc3', u'c6']"]
+a_102 [label="A94
+Dutch, Stonewall with Ba3
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd5', u'b3', u'c6', u'Ba3']"]
+a_103 [label="A97
+Dutch, Ilyin-Genevsky
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd6', u'Nc3', u'Qe8']"]
+a_104 [label="A96
+Dutch, Classical Variation
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd6']"]
+a_105 [label="A91
+Dutch Defense
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7']"]
+a_106 [label="A90
+Dutch
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2']"]
+a_107 [label="A93
+Dutch, Stonewall, Botvinnik Variation
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'd5', u'b3']"]
+a_108 [label="A92
+Dutch
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'e6', u'Bg2', u'Be7', u'Nf3', u'O-O']"]
+a_109 [label="B70
+Sicilian, Dragon Variation
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6']"]
+a_110 [label="B71
+Sicilian, Dragon Levenfish Variation
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'f4']"]
+a_111 [label="B72
+Sicilian, Dragon
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3']"]
+a_112 [label="B73
+Sicilian, Dragon, CLassical
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'Be2', u'Nc6', u'O-O']"]
+a_113 [label="B74
+Sicilian, Dragon, CLassical
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'Be2', u'Nc6', u'O-O', u'O-O', u'Nb3']"]
+a_114 [label="B75
+Sicilian, Dragon, Yugoslav Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'f3']"]
+a_115 [label="B76
+Sicilian, Dragon, Yugoslav Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'f3', u'O-O']"]
+a_116 [label="B77
+Sicilian, Dragon, Yugoslav Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'f3', u'O-O', u'Qd2', u'Nc6', u'Bc4']"]
+a_117 [label="B78
+Sicilian, Dragon, Yugoslav Attack, 10.castle Long
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'f3', u'O-O', u'Qd2', u'Nc6', u'Bc4', u'Bd7', u'O-O-O']"]
+a_118 [label="B79
+Sicilian, Dragon, Yugoslav Attack, 12.h4
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'g6', u'Be3', u'Bg7', u'f3', u'O-O', u'Qd2', u'Nc6', u'Bc4', u'Bd7', u'O-O-O', u'Qa5', u'Bb3', u'Rfc8', u'h4']"]
+a_119 [label="E98
+King's-Indian, Orthodox, Taimanov, 9.Ne1
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Nf3', u'O-O', u'Be2', u'e5', u'O-O', u'Nc6', u'd5', u'Ne7', u'Ne1']"]
+a_120 [label="D49
+Queens's Gambit Declined Semi-Slav, Meran
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6', u'e3', u'Nbd7', u'Bd3', u'dxc4', u'Bxc4', u'b5', u'Bd3', u'a6', u'e4', u'c5', u'e5', u'cxd4', u'Nxb5']"]
+a_121 [label="D48
+Queens's Gambit Declined Semi-Slav, Meran
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6', u'e3', u'Nbd7', u'Bd3', u'dxc4', u'Bxc4', u'b5', u'Bd3', u'a6']"]
+a_122 [label="D43
+Queens's Gambit Declined Semi-Slav
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6']"]
+a_123 [label="D42
+Queens's Gambit Declined, Semi-Tarrasch, 7.Bd3
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c5', u'cxd5', u'Nxd5', u'e3', u'Nc6', u'Bd3']"]
+a_124 [label="D41
+Queens's Gambit Declined, Semi-Tarrasch
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c5', u'cxd5']"]
+a_125 [label="D40
+Queens's Gambit Declined, Semi-Tarrasch
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c5']"]
+a_126 [label="D47
+Queens's Gambit Declined Semi-Slav
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6', u'e3', u'Nbd7', u'Bd3', u'dxc4', u'Bxc4']"]
+a_127 [label="D46
+Queens's Gambit Declined Semi-Slav
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6', u'e3', u'Nbd7', u'Bd3']"]
+a_128 [label="D45
+Queens's Gambit Declined Semi-Slav
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6', u'e3']"]
+a_129 [label="D44
+Queens's Gambit Declined Semi-Slav
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Nf3', u'c6', u'Bg5', u'dxc4']"]
+a_130 [label="A08
+King's Indian Attack
+[u'Nf3', u'd5', u'g3', u'c5', u'Bg2']"]
+a_131 [label="A09
+Reti Opening
+[u'Nf3', u'd5', u'c4']"]
+a_132 [label="A02
+Bird's Opening
+[u'f4']"]
+a_133 [label="A03
+Bird's Opening
+[u'f4', u'd5']"]
+a_134 [label="A00
+Uncommon Opening
+[u'g4 a3 h3']"]
+a_135 [label="A01
+Nimzovich-Larsen Attack
+[u'b3']"]
+a_136 [label="A06
+Reti Opening
+[u'Nf3', u'd5']"]
+a_137 [label="A07
+King's Indian Attack
+[u'Nf3', u'd5', u'g3']"]
+a_138 [label="A04
+Reti Opening
+[u'Nf3']"]
+a_139 [label="A05
+Reti Opening
+[u'Nf3', u'Nf6']"]
+a_209 [label="A36
+English
+[u'c4', u'c5', u'Nc3', u'Nc6', u'g3']"]
+a_140 [label="C39
+King's Gambit Accepted
+[u'e4', u'e5', u'f4', u'exf4', u'Nf3', u'g5', u'h4']"]
+a_141 [label="C38
+King's Gambit Accepted
+[u'e4', u'e5', u'f4', u'exf4', u'Nf3', u'g5', u'Bc4', u'Bg7']"]
+a_142 [label="C35
+King's Gambit Accepted, Cunningham
+[u'e4', u'e5', u'f4', u'exf4', u'Nf3', u'Be7']"]
+a_143 [label="C34
+King's Gambit Accepted
+[u'e4', u'e5', u'f4', u'exf4', u'Nf3']"]
+a_144 [label="C37
+King's Gambit Accepted
+[u'e4', u'e5', u'f4', u'exf4', u'Nf3', u'g5', u'Nc3']"]
+a_145 [label="C36
+King's Gambit Accepted, Abbazia Defense
+[u'e4', u'e5', u'f4', u'exf4', u'Nf3', u'd5']"]
+a_146 [label="C31
+King's Gambit Declined, Falkbeer Counter Gambit
+[u'e4', u'e5', u'f4', u'd5']"]
+a_147 [label="C30
+King's Gambit Declined
+[u'e4', u'e5', u'f4']"]
+a_148 [label="C33
+King's Gambit Accepted
+[u'e4', u'e5', u'f4', u'exf4']"]
+a_149 [label="C32
+King's Gambit Declined, Falkbeer Counter Gambit
+[u'e4', u'e5', u'f4', u'd5', u'exd5', u'e4', u'd3', u'Nf6']"]
+a_150 [label="E59
+Nimzo-Indian, 4.e3, Main line
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5', u'O-O', u'Nc6', u'a3', u'Bxc3', u'bxc3', u'dxc4', u'Bxc4']"]
+a_151 [label="E58
+Nimzo-Indian, 4.e3, Main line with 8...Bxc3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5', u'O-O', u'Nc6', u'a3', u'Bxc3', u'bxc3']"]
+a_152 [label="E55
+Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5', u'O-O', u'dxc4', u'Bxc4', u'Nbd7']"]
+a_153 [label="E54
+Nimzo-Indian, 4.e3, Gligoric System
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5', u'O-O', u'dxc4', u'Bxc4']"]
+a_154 [label="E57
+Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5', u'O-O', u'Nc6', u'a3', u'dxc4']"]
+a_155 [label="E56
+Nimzo-Indian, 4.e3, Main line with 7...Nc6
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5', u'O-O', u'Nc6']"]
+a_156 [label="E51
+Nimzo-Indian, 4.e3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5']"]
+a_157 [label="E50
+Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3']"]
+a_158 [label="E53
+Nimzo-Indian, 4.e3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'c5']"]
+a_159 [label="E52
+Nimzo-Indian, 4.e3, Main line with ...b6
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Nf3', u'd5', u'Bd3', u'b6']"]
+a_160 [label="B38
+Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'g6', u'c4', u'Bg7', u'Be3']"]
+a_161 [label="B39
+Sicilian, Accelerated Fianchetto, Breyer Variation
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'g6', u'c4', u'Bg7', u'Be3', u'Nf6', u'Nc3', u'Ng4']"]
+a_162 [label="B34
+Sicilian, Accelerated Fianchetto
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'g6', u'Nxc6']"]
+a_163 [label="B35
+Sicilian, Accelerated Fianchetto, Modern Variation with Bc4
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'g6', u'Nc3', u'Bg7', u'Be3', u'Nf6', u'Bc4']"]
+a_164 [label="B36
+Sicilian, Accelerated Fianchetto
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'g6', u'c4']"]
+a_165 [label="B37
+Sicilian, Accelerated Fianchetto
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'g6', u'c4', u'Bg7']"]
+a_166 [label="B30
+Sicilian
+[u'e4', u'c5', u'Nf3', u'Nc6']"]
+a_167 [label="B31
+Sicilian, Rossolimo Variation
+[u'e4', u'c5', u'Nf3', u'Nc6', u'Bg5', u'g6']"]
+a_168 [label="B32
+Sicilian
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4', u'e5']"]
+a_169 [label="B33
+Sicilian
+[u'e4', u'c5', u'Nf3', u'Nc6', u'd4', u'cxd4', u'Nxd4']"]
+a_171 [label="D07
+Queens's Gambit Declined, Chigorin Defense
+[u'd4', u'd5', u'c4', u'Nc6']"]
+a_172 [label="D06
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4']"]
+a_173 [label="D05
+Queens's Pawn Game
+[u'd4', u'd5', u'Nf3', u'Nf6', u'e3', u'e6']"]
+a_174 [label="D04
+Queens's Pawn Game
+[u'd4', u'd5', u'Nf3', u'Nf6', u'e3']"]
+a_175 [label="D03
+Torre Attack (Tartakower Variation)
+[u'd4', u'd5', u'Nf3', u'Nf6', u'Bg5']"]
+a_176 [label="D02
+Queens's Pawn Game
+[u'd4', u'd5', u'Nf3']"]
+a_177 [label="D01
+Richter-Veresov Attack
+[u'd4', u'd5', u'Nc3', u'Nf6', u'Bg5']"]
+a_178 [label="D00
+Queens's Pawn Game
+[u'd4', u'd5']"]
+a_179 [label="D09
+Queens's Gambit Declined, Albin Counter Gambit, 5.g3
+[u'd4', u'd5', u'c4', u'e5', u'dxe5', u'd4', u'Nf3', u'Nc6', u'g3']"]
+a_180 [label="D08
+Queens's Gambit Declined, Albin Counter Gambit
+[u'd4', u'd5', u'c4', u'e5']"]
+a_181 [label="A46
+Queen's Pawn Game
+[u'd4', u'Nf6', u'Nf3']"]
+a_182 [label="A47
+Queen's Indian
+[u'd4', u'Nf6', u'Nf3', u'b6']"]
+a_183 [label="A44
+Old Benoni Defense
+[u'd4', u'c5', u'd5', u'e5']"]
+a_184 [label="A45
+Queen's Pawn Game
+[u'd4', u'Nf6']"]
+a_185 [label="A42
+Modern Defense, Averbakh System
+[u'd4', u'd6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4']"]
+a_186 [label="A43
+Old Benoni
+[u'd4', u'c5']"]
+a_187 [label="A40
+Queen's Pawn Game
+[u'd4']"]
+a_188 [label="A41
+Queen's Pawn Game (with ...d6)
+[u'd4', u'd6']"]
+a_189 [label="D98
+Grunfeld, Russian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Qb3', u'dxc4', u'Qxc4', u'O-O', u'e4', u'Bg4']"]
+a_190 [label="A48
+King's Indian
+[u'd4', u'Nf6', u'Nf3', u'g6']"]
+a_191 [label="A49
+King's Indian, Fianchetto without c4
+[u'd4', u'Nf6', u'Nf3', u'g6', u'g3']"]
+a_192 [label="D96
+Grunfeld, Russian Variation
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Qb3']"]
+a_193 [label="C79
+Ruy Lopez, Steinit ZDefense Deferred
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'd6']"]
+a_194 [label="C78
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O']"]
+a_195 [label="D97
+Grunfeld, Russian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Qb3', u'dxc4', u'Qxc4', u'O-O', u'e4']"]
+a_196 [label="C71
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'd6']"]
+a_197 [label="C70
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4']"]
+a_198 [label="C73
+Ruy Lopez, Modern Steinit ZDefense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'd6', u'Bxc6+', u'bxc6', u'd4']"]
+a_199 [label="C72
+Ruy Lopez, Modern Steinit ZDefense, 5.O-O
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'd6', u'O-O']"]
+a_200 [label="C75
+Ruy Lopez, Modern Steinit ZDefense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'd6', u'c3', u'Bd7']"]
+a_201 [label="C74
+Ruy Lopez, Modern Steinit ZDefense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'd6', u'c3']"]
+a_202 [label="C77
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6']"]
+a_203 [label="C76
+Ruy Lopez, Modern Steinit ZDefense, Fianchetto Variation
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'd6', u'c3', u'Bd7', u'd4', u'g6']"]
+a_204 [label="A33
+English, Symmetrical
+[u'c4', u'c5', u'Nf3', u'Nf6', u'd4', u'cxd4', u'Nxd4', u'e6', u'Nc3', u'Nc6']"]
+a_205 [label="A32
+English, Symmetrical Variation
+[u'c4', u'c5', u'Nf3', u'Nf6', u'd4', u'cxd4', u'Nxd4', u'e6']"]
+a_206 [label="A31
+English, Symmetrical, Benoni Formation
+[u'c4', u'c5', u'Nf3', u'Nf6', u'd4']"]
+a_207 [label="A30
+English, Symmetrical
+[u'c4', u'c5']"]
+a_208 [label="A37
+English, Symmetrical
+[u'c4', u'c5', u'Nc3', u'Nc6', u'g3', u'g6', u'Bg2', u'Bg7', u'Nf3']"]
+a_170 [label="D99
+Grunfeld Defense, Smyslov
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Qb3', u'dxc4', u'Qxc4', u'O-O', u'e4', u'Bg4', u'Be3']"]
+a_210 [label="A35
+English, Symmetrical
+[u'c4', u'c5', u'Nc3', u'Nc6']"]
+a_211 [label="A34
+English, Symmetrical
+[u'c4', u'c5', u'Nc3']"]
+a_212 [label="D94
+Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'e3']"]
+a_213 [label="D95
+Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'e3', u'O-O', u'Qb3']"]
+a_214 [label="A39
+English, Symmetrical
+[u'c4', u'c5', u'Nc3', u'Nc6', u'g3', u'g6', u'Bg2', u'Bg7', u'Nf3', u'Nf6', u'O-O', u'O-O', u'd4']"]
+a_215 [label="A38
+English, Symmetrical
+[u'c4', u'c5', u'Nc3', u'Nc6', u'g3', u'g6', u'Bg2', u'Bg7', u'Nf3', u'Nf6']"]
+a_216 [label="D90
+Grunfeld
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3']"]
+a_217 [label="D91
+Grunfeld, 5.Bg5
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Bg5']"]
+a_218 [label="D92
+Grunfeld, 5.Bf4
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Bf4']"]
+a_219 [label="D93
+Grunfeld, with Bf4 & e3
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'd5', u'Nf3', u'Bg7', u'Bf4', u'O-O', u'e3']"]
+a_220 [label="E19
+Queens' Indian, Old Main line, 9.Qxc3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'g3', u'Bb7', u'Bg2', u'Be7', u'O-O', u'O-O', u'Nc3', u'Ne4', u'Qc2', u'Nxc3']"]
+a_221 [label="E18
+Queens' Indian, Old Main line, 7.Nc3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'g3', u'Bb7', u'Bg2', u'Be7', u'O-O', u'O-O', u'Nc3']"]
+a_222 [label="E11
+Bogo-Indian Defense
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'Bb4+']"]
+a_223 [label="E10
+Queens's Pawn Game
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3']"]
+a_224 [label="E13
+Queens' Indian, 4.Nc3, Main line
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'Nc3', u'Bb7', u'Bg5', u'h6', u'Bh4', u'Bb4']"]
+a_225 [label="E12
+Queens' Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6']"]
+a_226 [label="E15
+Queens' Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'g3']"]
+a_227 [label="E14
+Queens' Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'e3']"]
+a_228 [label="E17
+Queens' Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'g3', u'Bb7', u'Bg2', u'Be7']"]
+a_229 [label="E16
+Queens' Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nf3', u'b6', u'g3', u'Bb7', u'Bg2', u'Bb4+']"]
+a_230 [label="C93
+Ruy Lopez, Closed, Smyslov Defense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'h6']"]
+a_231 [label="C92
+Ruy Lopez, Closed
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3']"]
+a_232 [label="C91
+Ruy Lopez, Closed
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'd4']"]
+a_233 [label="C90
+Ruy Lopez, Closed
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6']"]
+a_234 [label="C97
+Ruy Lopez, Closed, Chigorin
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'Nb8', u'Bc2', u'c5', u'd4', u'Qc7']"]
+a_235 [label="C96
+Ruy Lopez, Closed
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'Nb8', u'Bc2']"]
+a_236 [label="C95
+Ruy Lopez, Closed, Breyer
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'Nb8', u'd4']"]
+a_237 [label="C94
+Ruy Lopez, Closed, Breyer Defense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'Nb8']"]
+a_238 [label="C99
+Ruy Lopez, Closed, Chigorin, 12...cd
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'Nb8', u'Bc2', u'c5', u'd4', u'Qc7', u'Nbd2', u'cxd4', u'cxd4']"]
+a_239 [label="C98
+Ruy Lopez, Closed, Chigorin
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd6', u'h3', u'Nb8', u'Bc2', u'c5', u'd4', u'Qc7', u'Nbd2', u'Nc6']"]
+a_240 [label="A82
+Dutch, Staunton Gambit
+[u'd4', u'f5', u'e4']"]
+a_241 [label="A83
+Dutch, Staunton Gambit
+[u'd4', u'f5', u'e4', u'fxe4', u'Nc3', u'Nf6', u'Bg5']"]
+a_242 [label="A80
+Dutch
+[u'd4', u'f5']"]
+a_243 [label="A81
+Dutch
+[u'd4', u'f5', u'g3']"]
+a_244 [label="A86
+Dutch, with c4 and Nc3
+[u'd4', u'f5', u'c4', u'Nf6', u'g3']"]
+a_245 [label="A87
+Dutch, Leningrad, Main Variation
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'g6', u'Bg2', u'Bg7', u'Nf3']"]
+a_246 [label="A84
+Dutch
+[u'd4', u'f5', u'c4']"]
+a_247 [label="A85
+Dutch, with c4 and Nc3
+[u'd4', u'f5', u'c4', u'Nf6', u'Nc3']"]
+a_248 [label="A88
+Dutch, Leningrad, Main Variation with c6
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'g6', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'O-O', u'd6', u'Nc3', u'c6']"]
+a_249 [label="A89
+Dutch, Leningrad, Main Variation with Nc6
+[u'd4', u'f5', u'c4', u'Nf6', u'g3', u'g6', u'Bg2', u'Bg7', u'Nf3', u'O-O', u'O-O', u'd6', u'Nc3', u'Nc6']"]
+a_250 [label="E86
+King's-Indian, Samisch, Orthodox, 7.Nge2 c6
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'e5', u'Nge2', u'c6']"]
+a_251 [label="E87
+King's-Indian, Samisch, Orthodox
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'e5', u'd5']"]
+a_252 [label="E84
+King's-Indian, Samisch, Panno Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'Nc6', u'Nge2', u'a6', u'Qd2', u'Rb8']"]
+a_253 [label="E85
+King's-Indian, Samisch, Orthodox Variation
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'e5']"]
+a_254 [label="E82
+King's-Indian, Samisch, double Fianchetto
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'b6']"]
+a_255 [label="E83
+King's-Indian, Samisch
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'Nc6']"]
+a_256 [label="E80
+King's-Indian, Samisch Variation
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3']"]
+a_257 [label="E81
+King's-Indian, Samisch
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O']"]
+a_258 [label="E88
+King's-Indian, Samisch, Orthodox, 7.d5 c6
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'e5', u'd5', u'c6']"]
+a_259 [label="E89
+King's-Indian, Samisch, Orthodox, Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f3', u'O-O', u'Be3', u'e5', u'd5', u'c6', u'Nge2', u'cxd5']"]
+a_260 [label="B45
+Sicilian, Taimanov
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'Nc6', u'Nc3']"]
+a_261 [label="B44
+Sicilian
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'Nc6']"]
+a_262 [label="B47
+Sicilian, Taimanov (Bastrikov) Variation
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'Nc6', u'Nc3', u'Qc7']"]
+a_263 [label="B46
+Sicilian, Taimanov Variation
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'Nc6', u'Nc3', u'a6']"]
+a_264 [label="B41
+Sicilian, Kan
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'a6']"]
+a_265 [label="B40
+Sicilian
+[u'e4', u'c5', u'Nf3', u'e6']"]
+a_266 [label="B43
+Sicilian, Kan, 5.Nc3
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'a6', u'Nc3']"]
+a_267 [label="B42
+Sicilian, Kan
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'a6', u'Bd3']"]
+a_268 [label="B49
+Sicilian, Taimanov Variation
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'Nc6', u'Nc3', u'Qc7', u'Be3', u'a6', u'Be2']"]
+a_269 [label="B48
+Sicilian, Taimanov Variation
+[u'e4', u'c5', u'Nf3', u'e6', u'd4', u'cxd4', u'Nxd4', u'Nc6', u'Nc3', u'Qc7', u'Be3']"]
+a_270 [label="D58
+Queens's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'h6', u'Bh4', u'b6']"]
+a_271 [label="D59
+Queens's Gambit Declined, Tartakower
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'h6', u'Bh4', u'b6', u'cxd5', u'Nxd5']"]
+a_272 [label="D50
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5']"]
+a_273 [label="D51
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Nbd7']"]
+a_274 [label="D52
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Nbd7', u'e3', u'c6', u'Nf3']"]
+a_275 [label="D53
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7']"]
+a_276 [label="D54
+Queens's Gambit Declined, Anit-Neo-Orthodox Variation
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Rc1']"]
+a_277 [label="D55
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3']"]
+a_278 [label="D56
+Queens's Gambit Declined
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'h6', u'Bh4']"]
+a_279 [label="D57
+Queens's Gambit Declined, Lasker Defense
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'h6', u'Bh4', u'Ne4', u'Bxe7', u'Qxe7']"]
+a_280 [label="A79
+Benoni, Classical, 11.f3
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_281 [label="A78
+Benoni, Classical with Re8 and Na6
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_282 [label="A77
+Benoni, Classical, 9...Re8, 10.Nd2
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_283 [label="A76
+Benoni, Classical, 9...Re8
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_284 [label="A75
+Benoni, Classical with 9...a6, 10...Bg4
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_285 [label="A74
+Benoni, Classical, 9...a6, 10.a4
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_286 [label="A73
+Benoni, Classical, 9.O-O
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_287 [label="A72
+Benoni, Classical without 9.O-O
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Be2', u'O-O', u'9.']"]
+a_288 [label="A71
+Benoni, Classical, 8.Bg5
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3', u'Bg7', u'Bg5']"]
+a_289 [label="A70
+Benoni, Classical with 7.Nf3
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'Nf3']"]
+a_290 [label="C22
+Center Game
+[u'e4', u'e5', u'd4', u'exd4', u'Qxd4', u'Nc6']"]
+a_291 [label="C23
+Bishop's Opening
+[u'e4', u'e5', u'Bc4']"]
+a_292 [label="C20
+King's Pawn Game
+[u'e4', u'e5']"]
+a_293 [label="C21
+Center Game
+[u'e4', u'e5', u'd4', u'exd4']"]
+a_294 [label="C26
+Vienna
+[u'e4', u'e5', u'Nc3', u'Nf6']"]
+a_295 [label="C27
+Vienna Game
+[u'e4', u'e5', u'Nc3', u'Nf6', u'Bc4', u'Nxe4']"]
+a_296 [label="C24
+Bishop's Opening
+[u'e4', u'e5', u'Bc4', u'Nf6']"]
+a_297 [label="C25
+Vienna
+[u'e4', u'e5', u'Nc3']"]
+a_298 [label="C28
+Vienna Game
+[u'e4', u'e5', u'Nc3', u'Nf6', u'Bc4', u'Nc6']"]
+a_299 [label="C29
+Vienna Gambit
+[u'e4', u'e5', u'Nc3', u'Nf6', u'f4']"]
+a_300 [label="E42
+Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubenstein)
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'c5', u'Ne2']"]
+a_301 [label="E43
+Nimzo-Indian, Fischer Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'b6']"]
+a_302 [label="E40
+Nimzo-Indian, 4.e3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3']"]
+a_303 [label="E41
+Nimzo-Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'c5']"]
+a_304 [label="E46
+Nimzo-Indian
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O']"]
+a_305 [label="E47
+Nimzo-Indian, 4.e3 O-OZZZ5.Bd3
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Bd3']"]
+a_306 [label="E44
+Nimzo-Indian, Fischer Variation, 5.Ne2
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'b6', u'Ne2']"]
+a_307 [label="E45
+Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'b6', u'Ne2', u'Ba6']"]
+a_308 [label="E48
+Nimzo-Indian, 4.e3 O-OZZZ5.Bd3 d5
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Bd3', u'd5']"]
+a_309 [label="E49
+Nimzo-Indian, 4.e3 Botvinnik System
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'e3', u'O-O', u'Bd3', u'd5', u'a3', u'Bxc3+', u'bxc3']"]
+a_310 [label="B01
+Scandinavian
+[u'e4', u'd5']"]
+a_311 [label="B00
+Uncommon King's Pawn Opening
+[u'e4']"]
+a_312 [label="B03
+Alekhine's Defense
+[u'e4', u'Nf6', u'e5', u'Nd5', u'd4']"]
+a_313 [label="B02
+Alekhine's Defense
+[u'e4', u'Nf6']"]
+a_314 [label="B05
+Alekhine's Defense, Modern
+[u'e4', u'Nf6', u'e5', u'Nd5', u'd4', u'd6', u'Nf3', u'Bg4']"]
+a_315 [label="B04
+Alekhine's Defense, Modern
+[u'e4', u'Nf6', u'e5', u'Nd5', u'd4', u'd6', u'Nf3']"]
+a_316 [label="B07
+Pirc
+[u'e4', u'd6', u'd4', u'Nf6']"]
+a_317 [label="B06
+Robatsch
+[u'e4', u'g6']"]
+a_318 [label="B09
+Pirc, Austrian Attack
+[u'e4', u'd6', u'd4', u'Nf6', u'Nc3', u'g6', u'f4']"]
+a_319 [label="B08
+Pirc, Classical
+[u'e4', u'd6', u'd4', u'Nf6', u'Nc3', u'g6', u'Nf3']"]
+a_320 [label="D14
+Queens's Gambit Declined Slav, Exchange Variation
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'cxd5', u'cxd5', u'Nc3', u'Nc6', u'Bf4', u'Bf5']"]
+a_321 [label="D15
+Queens's Gambit Declined Slav
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'Nc3']"]
+a_322 [label="D16
+Queens's Gambit Declined Slav
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'Nc3', u'dxc4', u'a4']"]
+a_323 [label="D17
+Queens's Gambit Declined Slav
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'Nc3', u'dxc4', u'a4', u'Bf5']"]
+a_324 [label="D10
+Queens's Gambit Declined Slav
+[u'd4', u'd5', u'c4', u'c6']"]
+a_325 [label="D11
+Queens's Gambit Declined Slav
+[u'd4', u'd5', u'c4', u'c6', u'Nf3']"]
+a_326 [label="D12
+Queens's Gambit Declined Slav
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'e3', u'Bf5']"]
+a_327 [label="D13
+Queens's Gambit Declined Slav, Exchange Variation
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'cxd5', u'cxd5']"]
+a_328 [label="D18
+Queens's Gambit Declined Slav, Dutch
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'Nc3', u'dxc4', u'a4', u'Bf5', u'e3']"]
+a_329 [label="D19
+Queens's Gambit Declined Slav, Dutch
+[u'd4', u'd5', u'c4', u'c6', u'Nf3', u'Nf6', u'Nc3', u'dxc4', u'a4', u'Bf5', u'e3', u'e6', u'Bxc4', u'Bb4', u'O-O', u'O-O', u'Qe2']"]
+a_330 [label="C68
+Ruy Lopez, Exchange
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Bxc6']"]
+a_331 [label="C69
+Ruy Lopez, Exchange, Gligoric Variation, 6.d4
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Bxc6', u'dc', u'O-O', u'f6', u'd4']"]
+a_332 [label="C66
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'Nf6', u'O-O', u'd6']"]
+a_333 [label="C67
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'Nf6', u'O-O', u'Nxe4']"]
+a_334 [label="C64
+Ruy Lopez, Classical
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'Bc5']"]
+a_335 [label="C65
+Ruy Lopez, Berlin Defense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'Nf6']"]
+a_336 [label="C62
+Ruy Lopez, Old Steinit ZDefense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'd6']"]
+a_337 [label="C63
+Ruy Lopez, Schliemann Defense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'f5']"]
+a_338 [label="C60
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5']"]
+a_339 [label="C61
+Ruy Lopez, Bird's Defense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'Nd4']"]
+a_340 [label="A20
+English
+[u'c4', u'e5']"]
+a_341 [label="A21
+English
+[u'c4', u'e5', u'Nc3']"]
+a_342 [label="A22
+English
+[u'c4', u'e5', u'Nc3', u'Nf6']"]
+a_343 [label="A23
+English, Bremen System, Keres Variation
+[u'c4', u'e5', u'Nc3', u'Nf6', u'g3', u'c6']"]
+a_344 [label="A24
+English, Bremen System with ...g6
+[u'c4', u'e5', u'Nc3', u'Nf6', u'g3', u'g6']"]
+a_345 [label="A25
+English
+[u'c4', u'e5', u'Nc3', u'Nc6']"]
+a_346 [label="A26
+English
+[u'c4', u'e5', u'Nc3', u'Nc6', u'g3', u'g6', u'Bg2', u'Bg7', u'd3', u'd6']"]
+a_347 [label="A27
+English, Three Knights System
+[u'c4', u'e5', u'Nc3', u'Nc6', u'Nf3']"]
+a_348 [label="A28
+English
+[u'c4', u'e5', u'Nc3', u'Nc6', u'Nf3', u'Nf6']"]
+a_349 [label="A29
+English, Four Knights, Kingside Fianchetto
+[u'c4', u'e5', u'Nc3', u'Nc6', u'Nf3', u'Nf6', u'g3']"]
+a_350 [label="C19
+French Defense, Winawer, Advance
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Bb4', u'e5', u'c5', u'a3', u'Bxc3+', u'bxc3', u'Ne7']"]
+a_351 [label="C18
+French Defense, Winawer
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Bb4', u'e5', u'c5', u'a3', u'Bxc3+', u'bxc3']"]
+a_352 [label="C13
+French Defense
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Nf6', u'Bg5', u'Be7']"]
+a_353 [label="C12
+French Defense, McCutcheon
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Nf6', u'Bg5', u'Bb4']"]
+a_354 [label="C11
+French Defense
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Nf6']"]
+a_355 [label="C10
+French Defense
+[u'e4', u'e6', u'd4', u'd5', u'Nc3']"]
+a_356 [label="C17
+French Defense, Winawer, Advance
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Bb4', u'e5', u'c5']"]
+a_357 [label="C16
+French Defense, Winawer
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Bb4', u'e5']"]
+a_358 [label="C15
+French Defense, Winawer
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Bb4']"]
+a_359 [label="C14
+French Defense, Classical
+[u'e4', u'e6', u'd4', u'd5', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e5', u'Nfd7', u'Bxe7', u'Qxe7']"]
+a_360 [label="E08
+Catalan, Closed
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'Nbd7', u'Qc2']"]
+a_361 [label="E09
+Catalan, Closed
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'Nbd7', u'Qc2', u'c6', u'Nbd2']"]
+a_362 [label="E06
+Catalan, Closed, 5.Nf3
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'Be7', u'Nf3']"]
+a_363 [label="E07
+Catalan, Closed
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'Be7', u'Nf3', u'O-O', u'O-O', u'Nbd7']"]
+a_364 [label="E04
+Catalan, Open, 5.Nf3
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'dxc4', u'Nf3']"]
+a_365 [label="E05
+Catalan, Open, Classical line
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'dxc4', u'Nf3', u'Be7']"]
+a_366 [label="E02
+Catalan, Open, 5.Qa4
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'dxc4', u'Qa4+']"]
+a_367 [label="E03
+Catalan, Open
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2', u'dxc4', u'Qa4+', u'Nbd7', u'Qxc4']"]
+a_368 [label="E00
+Queens's Pawn Game
+[u'd4', u'Nf6', u'c4', u'e6']"]
+a_369 [label="E01
+Catalan
+[u'd4', u'Nf6', u'c4', u'e6', u'g3', u'd5', u'Bg2']"]
+a_370 [label="C80
+Ruy Lopez, Open
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Nxe4']"]
+a_371 [label="C81
+Ruy Lopez, Open, Howell Attack
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Nxe4', u'd4', u'b5', u'Bb3', u'd5', u'dxe5', u'Be6']"]
+a_372 [label="C82
+Ruy Lopez, Open
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Nxe4', u'd4', u'b5', u'Bb3', u'd5', u'dxe5', u'Be6', u'c3']"]
+a_373 [label="C83
+Ruy Lopez, Open
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Nxe4', u'd4', u'b5', u'Bb3', u'd5', u'dxe5', u'Be6']"]
+a_374 [label="C84
+Ruy Lopez, Closed
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7']"]
+a_375 [label="C85
+Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Bxc6', u'dxc6']"]
+a_376 [label="C86
+Ruy Lopez, Worrall Attack
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Qe2']"]
+a_377 [label="C87
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'd6']"]
+a_378 [label="C88
+Ruy Lopez
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3']"]
+a_379 [label="C89
+Ruy Lopez, Marshall
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bb5', u'a6', u'Ba4', u'Nf6', u'O-O', u'Be7', u'Re1', u'b5', u'Bb3', u'O-O', u'c3', u'd5']"]
+a_380 [label="E79
+King's-Indian, Four Pawns Attack, Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f4', u'O-O', u'Be2', u'c5', u'Nf3', u'cxd4', u'Nxd4', u'Nc6', u'Be3']"]
+a_381 [label="E78
+King's-Indian, Four Pawns Attack, with Be2 and Nf3
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f4', u'O-O', u'Be2', u'c5', u'Nf3']"]
+a_382 [label="E73
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Be2']"]
+a_383 [label="E72
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'g3']"]
+a_384 [label="E71
+King's-Indian, Makagonov System (5.h3)
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'h3']"]
+a_385 [label="E70
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4']"]
+a_386 [label="E77
+King's-Indian
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f4', u'O-O', u'Be2']"]
+a_387 [label="E76
+King's-Indian, Four Pawns Attack
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'f4']"]
+a_388 [label="E75
+King's-Indian, Averbakh, Main line
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Be2', u'O-O', u'Bg5', u'c5', u'd5', u'e6']"]
+a_389 [label="E74
+King's-Indian, Averbakh, 6...c5
+[u'd4', u'Nf6', u'c4', u'g6', u'Nc3', u'Bg7', u'e4', u'd6', u'Be2', u'O-O', u'Bg5', u'c5']"]
+a_390 [label="B58
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Be2']"]
+a_391 [label="B59
+Sicilian, Boleslavsky Variation, 7.Nb3
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Be2', u'e5', u'Nb3']"]
+a_392 [label="B52
+Sicilian, Canal-Sokolsky (Rossolimo) Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'Bb5+', u'Bd7']"]
+a_393 [label="B53
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Qxd4']"]
+a_394 [label="B50
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6']"]
+a_395 [label="B51
+Sicilian, Canal-Sokolsky (Rossolimo) Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'Bb5+']"]
+a_396 [label="B56
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3']"]
+a_397 [label="B57
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bc4']"]
+a_398 [label="B54
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4']"]
+a_399 [label="B55
+Sicilian, Prins Variation, Venice Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'f3', u'e5', u'Bb5+']"]
+a_400 [label="D69
+Queens's Gambit Declined, Orthodox Defense, Classical, 13.de
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1', u'c6', u'Bd3', u'dxc4']"]
+a_401 [label="D68
+Queens's Gambit Declined, Orthodox Defense, Classical
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1', u'c6', u'Bd3', u'dxc4']"]
+a_402 [label="D65
+Queens's Gambit Declined, Orthodox, Rubenstein Attack, Main line
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1', u'c6', u'Qc2', u'a6', u'cxd5']"]
+a_403 [label="D64
+Queens's Gambit Declined, Orthodox, Rubenstein Attack
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1', u'c6', u'Qc2']"]
+a_404 [label="D67
+Queens's Gambit Declined, Orthodox Defense, Bd3 line
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1', u'c6', u'Bd3', u'dxc4', u'Bxc4', u'Nd5']"]
+a_405 [label="D66
+Queens's Gambit Declined, Orthodox Defense, Bd3 line
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1', u'c6', u'Bd3']"]
+a_406 [label="D61
+Queens's Gambit Declined, Orthodox, Rubenstein Attack
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Qc2']"]
+a_407 [label="D60
+Queens's Gambit Declined, Orthodox Defense
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7']"]
+a_408 [label="D63
+Queens's Gambit Declined, Orthodox Defense
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Rc1']"]
+a_409 [label="D62
+Queens's Gambit Declined, Orthodox, Rubenstein Attack
+[u'd4', u'd5', u'c4', u'e6', u'Nc3', u'Nf6', u'Bg5', u'Be7', u'e3', u'O-O', u'Nf3', u'Nbd7', u'Qc2', u'c5', u'cxd5']"]
+a_410 [label="A68
+Benoni, Four Pawns Attack
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'f4', u'Bg7', u'Nf3', u'O-O']"]
+a_411 [label="A69
+Benoni, Four Pawns Attack, Main line
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'f4', u'Bg7', u'Nf3', u'O-O', u'9.']"]
+a_412 [label="A64
+Benoni, Fianchetto, 11...Re8
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'Nf3', u'g6', u'g3', u'Bg7', u'Bg2', u'O-O']"]
+a_413 [label="A65
+Benoni
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4']"]
+a_414 [label="A66
+Benoni
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'f4']"]
+a_415 [label="A67
+Benoni, Taimanov Variation
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'e4', u'g6', u'f4', u'Bg7', u'Bb5+']"]
+a_416 [label="A60
+Benoni Defense
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6']"]
+a_417 [label="A61
+Benoni
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'Nf3', u'g6']"]
+a_418 [label="A62
+Benoni, Fianchetto Variation
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'Nf3', u'g6', u'g3', u'Bg7', u'Bg2', u'O-O']"]
+a_419 [label="A63
+Benoni, Fianchetto, 9...Nbd7
+[u'd4', u'Nf6', u'c4', u'c5', u'd5', u'e6', u'Nc3', u'exd5', u'cxd5', u'd6', u'Nf3', u'g6', u'g3', u'Bg7', u'Bg2', u'O-O']"]
+a_420 [label="C57
+Two Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Nf6', u'Ng5']"]
+a_421 [label="C56
+Two Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Nf6', u'd4', u'exd4', u'O-O', u'Nxe4']"]
+a_422 [label="C55
+Two Knights Defense
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Nf6']"]
+a_423 [label="C54
+Giuoco Piano
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Bc5', u'c3', u'Nf6', u'd4', u'exd4', u'cxd4']"]
+a_424 [label="C53
+Giuoco Piano
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Bc5', u'c3']"]
+a_425 [label="C52
+Evan's Gambit
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Bc5', u'b4', u'Bxb4', u'c3', u'Ba5']"]
+a_426 [label="C51
+Evan's Gambit
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Bc5', u'b4']"]
+a_427 [label="C50
+Giuoco Piano
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Bc5']"]
+a_428 [label="C59
+Two Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Nf6', u'Ng5', u'd5', u'exd5', u'Na5', u'Bb5+', u'c6', u'dxc6', u'bxc6', u'Be2', u'h6']"]
+a_429 [label="C58
+Two Knights
+[u'e4', u'e5', u'Nf3', u'Nc6', u'Bc4', u'Nf6', u'Ng5', u'd5', u'exd5', u'Na5']"]
+a_430 [label="B89
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Bc4', u'Nc6', u'Be3']"]
+a_431 [label="B88
+Sicilian, Fischer-Sozin Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Bc4', u'Nc6']"]
+a_432 [label="B81
+Sicilian, Scheveningen, Keres Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'g4']"]
+a_433 [label="B80
+Sicilian, Scheveningen
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6']"]
+a_434 [label="B83
+Sicilian
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Be2']"]
+a_435 [label="B82
+Sicilian, Scheveningen
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'f4']"]
+a_436 [label="B85
+Sicilian, Scheveningen, Classical
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Be2', u'a6', u'O-O', u'Qc7', u'f4', u'Nc6']"]
+a_437 [label="B84
+Sicilian, Scheveningen
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Be2', u'a6']"]
+a_438 [label="B87
+Sicilian, Fischer-Sozin Attack with ...a6 and ...b5
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Bc4', u'a6', u'Bb3', u'b5']"]
+a_439 [label="B86
+Sicilian, Fischer-Sozin Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'e6', u'Bc4']"]
+a_440 [label="E37
+Nimzo-Indian, Classical
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'd5', u'a3', u'Bxc3+', u'Qxc3', u'Ne4', u'Qc2']"]
+a_441 [label="E36
+Nimzo-Indian, Classical
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'd5', u'a3']"]
+a_442 [label="E35
+Nimzo-Indian, Classical, Noa Variation, cd ed
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'd5', u'cxd5', u'exd5']"]
+a_443 [label="E34
+Nimzo-Indian, Classical, Noa Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'd5']"]
+a_444 [label="E33
+Nimzo-Indian, Classical
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'Nc6']"]
+a_445 [label="E32
+Nimzo-Indian, Classical
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2']"]
+a_446 [label="E31
+Nimzo-Indian, Leningrad, Main line
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Bg5', u'h6', u'Bh4', u'c5', u'd5', u'd6']"]
+a_447 [label="E30
+Nimzo-Indian, Leningrad
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Bg5']"]
+a_448 [label="E39
+Nimzo-Indian, Classical, Pirc Variation
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'c5', u'dxc5', u'O-O']"]
+a_449 [label="E38
+Nimzo-Indian, Classical, 4...c5
+[u'd4', u'Nf6', u'c4', u'e6', u'Nc3', u'Bb4', u'Qc2', u'c5']"]
+a_450 [label="B16
+Caro-Kann, Bronstein-Larsen Variation
+[u'e4', u'c6', u'd4', u'd5', u'Nc3', u'dxe4', u'Nxe4', u'Nf6', u'Nxf6+', u'gxf6']"]
+a_451 [label="B17
+Caro-Kann, Steinit ZVariation
+[u'e4', u'c6', u'd4', u'd5', u'Nc3', u'dxe4', u'Nxe4', u'Nd7']"]
+a_452 [label="B14
+Caro-Kann, Panov-Botvinnik Attack
+[u'e4', u'c6', u'd4', u'd5', u'exd5', u'cxd5', u'c4', u'Nf6', u'Nc3', u'e6']"]
+a_453 [label="B15
+Caro-Kann
+[u'e4', u'c6', u'd4', u'd5', u'Nc3']"]
+a_454 [label="B12
+Caro-Kann Defense
+[u'e4', u'c6', u'd4']"]
+a_455 [label="B13
+Caro-Kann, Exchange
+[u'e4', u'c6', u'd4', u'd5', u'exd5', u'cxd5']"]
+a_456 [label="B10
+Caro-Kann
+[u'e4', u'c6']"]
+a_457 [label="B11
+Caro-Kann, Two Knights, 3...Bg4
+[u'e4', u'c6', u'Nc3', u'd5', u'Nf3', u'Bg4']"]
+a_458 [label="B18
+Caro-Kann, Classical
+[u'e4', u'c6', u'd4', u'd5', u'Nc3', u'dxe4', u'Nxe4', u'Bf5']"]
+a_459 [label="B19
+Caro-Kann, Classical
+[u'e4', u'c6', u'd4', u'd5', u'Nc3', u'dxe4', u'Nxe4', u'Bf5', u'Ng3', u'Bg6', u'h4', u'h6', u'Nf3', u'Nd7']"]
+a_460 [label="D29
+Queens's Gambit Accepted, Classical
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6', u'e3', u'e6', u'Bxc4', u'c5', u'O-O', u'a6', u'Qe2', u'b5', u'Bb3', u'Bb7']"]
+a_461 [label="D28
+Queens's Gambit Accepted, Classical
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6', u'e3', u'e6', u'Bxc4', u'c5', u'O-O', u'a6', u'Qe2']"]
+a_462 [label="D21
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3']"]
+a_463 [label="D20
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4']"]
+a_464 [label="D23
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6']"]
+a_465 [label="D22
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'a6', u'e3', u'Bg4', u'Bxc4', u'e6', u'd5']"]
+a_466 [label="D25
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6', u'e3']"]
+a_467 [label="D24
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6', u'Nc3']"]
+a_468 [label="D27
+Queens's Gambit Accepted, Classical
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6', u'e3', u'e6', u'Bxc4', u'c5', u'O-O', u'a6']"]
+a_469 [label="D26
+Queens's Gambit Accepted
+[u'd4', u'd5', u'c4', u'dxc4', u'Nf3', u'Nf6', u'e3', u'e6']"]
+a_470 [label="B63
+Sicilian, Richter-Rauzer Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2']"]
+a_471 [label="B62
+Sicilian, Richter-Rauzer
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6']"]
+a_472 [label="B61
+Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'Bd7', u'Qd2']"]
+a_473 [label="B60
+Sicilian, Richter-Rauzer
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5']"]
+a_474 [label="B67
+Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2', u'a6', u'O-O-O', u'Bd7']"]
+a_475 [label="B66
+Sicilian, Richter-Rauzer Attack, 7...a6
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2', u'a6']"]
+a_476 [label="B65
+Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2', u'Be7', u'O-O-O', u'O-O', u'f4', u'Nxd4', u'Qxd4']"]
+a_477 [label="B64
+Sicilian, Richter-Rauzer Attack
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2', u'Be7', u'O-O-O', u'O-O', u'f4']"]
+a_478 [label="B69
+Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2', u'a6', u'O-O-O', u'Bd7', u'f4', u'Be7', u'Nf3', u'b5', u'Bxf6']"]
+a_479 [label="B68
+Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7
+[u'e4', u'c5', u'Nf3', u'd6', u'd4', u'cxd4', u'Nxd4', u'Nf6', u'Nc3', u'Nc6', u'Bg5', u'e6', u'Qd2', u'a6', u'O-O-O', u'Bd7', u'f4', u'Be7']"]
+a_480 [label="A15
+English
+[u'c4', u'Nf6']"]
+a_481 [label="A14
+English
+[u'c4', u'e6', u'Nf3', u'd5', u'g3', u'Nf6', u'Bg2', u'Be7', u'O-O']"]
+a_482 [label="A17
+English
+[u'c4', u'Nf6', u'Nc3', u'e6']"]
+a_483 [label="A16
+English
+[u'c4', u'Nf6', u'Nc3']"]
+a_484 [label="A11
+English, Caro-Kann Defensive System
+[u'c4', u'c6']"]
+a_485 [label="A10
+English
+[u'c4']"]
+a_486 [label="A13
+English
+[u'c4', u'e6']"]
+a_487 [label="A12
+English with b3
+[u'c4', u'c6', u'Nf3', u'd5', u'b3']"]
+a_488 [label="A19
+English, Mikenas-Carls, Sicilian Variation
+[u'c4', u'Nf6', u'Nc3', u'e6', u'e4', u'c5']"]
+a_489 [label="A18
+English, Mikenas-Carls
+[u'c4', u'Nf6', u'Nc3', u'e6', u'e4']"]
+a_490 [label="C08
+French Defense, Tarrasch, Open, 4.ed ed
+[u'e4', u'e6', u'd4', u'd5', u'Nd2', u'c5', u'exd5', u'exd5']"]
+a_491 [label="C09
+French Defense, Tarrasch, Open Variation, Main line
+[u'e4', u'e6', u'd4', u'd5', u'Nd2', u'c5', u'exd5', u'exd5', u'Ngf3', u'Nc6']"]
+a_492 [label="C00
+French Defense
+[u'e4', u'e6']"]
+a_493 [label="C01
+French Defense, Exchange
+[u'e4', u'e6', u'd4', u'd5', u'exd5', u'exd5', u'Nc3', u'Nf6', u'Bg5']"]
+a_494 [label="C02
+French Defense, Advance
+[u'e4', u'e6', u'd4', u'd5', u'e5']"]
+a_495 [label="C03
+French Defense, Tarrasch
+[u'e4', u'e6', u'd4', u'd5', u'Nd2']"]
+a_496 [label="C04
+French Defense, Tarrasch, Guimard Main line
+[u'e4', u'e6', u'd4', u'd5', u'Nd2', u'Nc6', u'Ngf3', u'Nf6']"]
+a_497 [label="C05
+French Defense, Tarrasch
+[u'e4', u'e6', u'd4', u'd5', u'Nd2', u'Nf6']"]
+a_498 [label="C06
+French Defense, Tarrasch
+[u'e4', u'e6', u'd4', u'd5', u'Nd2', u'Nf6', u'e5', u'Nfd7', u'Bd3', u'c5', u'c3', u'Nc6', u'Ne2', u'cxd4', u'cxd4']"]
+a_499 [label="C07
+French Defense, Tarrasch
+[u'e4', u'e6', u'd4', u'd5', u'Nd2', u'c5']"]
+a_364 -> a_365 [label="1"]
+a_60 -> a_55 [label="1"]
+a_117 -> a_118 [label="1"]
+a_190 -> a_191 [label="1"]
+a_495 -> a_499 [label="1"]
+a_124 -> a_123 [label="1"]
+a_495 -> a_497 [label="1"]
+a_215 -> a_214 [label="1"]
+a_79 -> a_80 [label="1"]
+a_410 -> a_411 [label="1"]
+a_433 -> a_435 [label="1"]
+a_371 -> a_372 [label="1"]
+a_357 -> a_356 [label="1"]
+a_112 -> a_113 [label="1"]
+a_174 -> a_173 [label="1"]
+a_165 -> a_160 [label="1"]
+a_226 -> a_228 [label="1"]
+a_381 -> a_380 [label="1"]
+a_147 -> a_148 [label="1"]
+a_41 -> a_427 [label="1"]
+a_338 -> a_330 [label="1"]
+a_413 -> a_414 [label="1"]
+a_69 -> a_70 [label="1"]
+a_278 -> a_270 [label="1"]
+a_363 -> a_360 [label="1"]
+a_362 -> a_363 [label="1"]
+a_99 -> a_119 [label="1"]
+a_323 -> a_328 [label="1"]
+a_45 -> a_47 [label="1"]
+a_458 -> a_459 [label="1"]
+a_335 -> a_332 [label="1"]
+a_2 -> a_385 [label="1"]
+a_443 -> a_441 [label="1"]
+a_172 -> a_91 [label="1"]
+a_4 -> a_9 [label="1"]
+a_242 -> a_240 [label="1"]
+a_258 -> a_259 [label="1"]
+a_86 -> a_122 [label="1"]
+a_396 -> a_433 [label="1"]
+a_492 -> a_355 [label="1"]
+a_449 -> a_448 [label="1"]
+a_485 -> a_486 [label="1"]
+a_338 -> a_334 [label="1"]
+a_20 -> a_19 [label="1"]
+a_474 -> a_479 [label="1"]
+a_269 -> a_268 [label="1"]
+a_306 -> a_307 [label="1"]
+a_386 -> a_381 [label="1"]
+a_13 -> a_166 [label="1"]
+a_22 -> a_26 [label="1"]
+a_257 -> a_255 [label="1"]
+a_63 -> a_61 [label="1"]
+a_471 -> a_470 [label="1"]
+a_27 -> a_25 [label="1"]
+a_445 -> a_444 [label="1"]
+a_216 -> a_218 [label="1"]
+a_253 -> a_251 [label="1"]
+a_368 -> a_369 [label="1"]
+a_27 -> a_28 [label="1"]
+a_33 -> a_36 [label="1"]
+a_225 -> a_226 [label="1"]
+a_211 -> a_210 [label="1"]
+a_9 -> a_0 [label="1"]
+a_396 -> a_397 [label="1"]
+a_492 -> a_495 [label="1"]
+a_155 -> a_154 [label="1"]
+a_192 -> a_195 [label="1"]
+a_197 -> a_196 [label="1"]
+a_209 -> a_208 [label="1"]
+a_387 -> a_386 [label="1"]
+a_342 -> a_343 [label="1"]
+a_169 -> a_168 [label="1"]
+a_369 -> a_366 [label="1"]
+a_273 -> a_274 [label="1"]
+a_151 -> a_150 [label="1"]
+a_233 -> a_231 [label="1"]
+a_223 -> a_225 [label="1"]
+a_231 -> a_237 [label="1"]
+a_41 -> a_422 [label="1"]
+a_156 -> a_159 [label="1"]
+a_172 -> a_24 [label="1"]
+a_485 -> a_207 [label="1"]
+a_485 -> a_340 [label="1"]
+a_81 -> a_100 [label="1"]
+a_206 -> a_205 [label="1"]
+a_188 -> a_185 [label="1"]
+a_69 -> a_68 [label="1"]
+a_17 -> a_16 [label="1"]
+a_4 -> a_5 [label="1"]
+a_31 -> a_34 [label="1"]
+a_186 -> a_183 [label="1"]
+a_32 -> a_33 [label="1"]
+a_453 -> a_450 [label="1"]
+a_463 -> a_462 [label="1"]
+a_396 -> a_109 [label="1"]
+a_289 -> a_287 [label="1"]
+a_429 -> a_428 [label="1"]
+a_91 -> a_92 [label="1"]
+a_292 -> a_45 [label="1"]
+a_147 -> a_146 [label="1"]
+a_29 -> a_30 [label="1"]
+a_264 -> a_267 [label="1"]
+a_289 -> a_284 [label="1"]
+a_205 -> a_204 [label="1"]
+a_45 -> a_41 [label="1"]
+a_304 -> a_157 [label="1"]
+a_492 -> a_493 [label="1"]
+a_96 -> a_95 [label="1"]
+a_416 -> a_417 [label="1"]
+a_486 -> a_481 [label="1"]
+a_456 -> a_454 [label="1"]
+a_352 -> a_359 [label="1"]
+a_206 -> a_211 [label="1"]
+a_256 -> a_257 [label="1"]
+a_294 -> a_295 [label="1"]
+a_351 -> a_350 [label="1"]
+a_43 -> a_44 [label="1"]
+a_358 -> a_357 [label="1"]
+a_77 -> a_78 [label="1"]
+a_148 -> a_143 [label="1"]
+a_71 -> a_72 [label="1"]
+a_200 -> a_203 [label="1"]
+a_245 -> a_248 [label="1"]
+a_427 -> a_424 [label="1"]
+a_108 -> a_101 [label="1"]
+a_216 -> a_212 [label="1"]
+a_234 -> a_238 [label="1"]
+a_293 -> a_290 [label="1"]
+a_385 -> a_384 [label="1"]
+a_439 -> a_431 [label="1"]
+a_111 -> a_112 [label="1"]
+a_41 -> a_42 [label="1"]
+a_370 -> a_373 [label="1"]
+a_289 -> a_282 [label="1"]
+a_366 -> a_367 [label="1"]
+a_178 -> a_177 [label="1"]
+a_374 -> a_375 [label="1"]
+a_289 -> a_280 [label="1"]
+a_197 -> a_202 [label="1"]
+a_324 -> a_325 [label="1"]
+a_169 -> a_163 [label="1"]
+a_368 -> a_2 [label="1"]
+a_169 -> a_162 [label="1"]
+a_338 -> a_337 [label="1"]
+a_180 -> a_179 [label="1"]
+a_90 -> a_87 [label="1"]
+a_294 -> a_299 [label="1"]
+a_292 -> a_297 [label="1"]
+a_374 -> a_377 [label="1"]
+a_75 -> a_77 [label="1"]
+a_88 -> a_85 [label="1"]
+a_40 -> a_39 [label="1"]
+a_194 -> a_374 [label="1"]
+a_231 -> a_235 [label="1"]
+a_469 -> a_468 [label="1"]
+a_398 -> a_399 [label="1"]
+a_390 -> a_391 [label="1"]
+a_354 -> a_352 [label="1"]
+a_473 -> a_472 [label="1"]
+a_155 -> a_151 [label="1"]
+a_422 -> a_421 [label="1"]
+a_187 -> a_184 [label="1"]
+a_389 -> a_388 [label="1"]
+a_470 -> a_475 [label="1"]
+a_325 -> a_321 [label="1"]
+a_32 -> a_31 [label="1"]
+a_261 -> a_260 [label="1"]
+a_122 -> a_129 [label="1"]
+a_121 -> a_120 [label="1"]
+a_86 -> a_125 [label="1"]
+a_405 -> a_400 [label="1"]
+a_433 -> a_439 [label="1"]
+a_454 -> a_455 [label="1"]
+a_462 -> a_464 [label="1"]
+a_75 -> a_76 [label="1"]
+a_483 -> a_482 [label="1"]
+a_347 -> a_348 [label="1"]
+a_109 -> a_111 [label="1"]
+a_181 -> a_182 [label="1"]
+a_20 -> a_18 [label="1"]
+a_16 -> a_15 [label="1"]
+a_453 -> a_451 [label="1"]
+a_54 -> a_51 [label="1"]
+a_316 -> a_319 [label="1"]
+a_26 -> a_29 [label="1"]
+a_395 -> a_392 [label="1"]
+a_403 -> a_402 [label="1"]
+a_272 -> a_273 [label="1"]
+a_341 -> a_345 [label="1"]
+a_143 -> a_140 [label="1"]
+a_38 -> a_416 [label="1"]
+a_302 -> a_303 [label="1"]
+a_265 -> a_264 [label="1"]
+a_189 -> a_170 [label="1"]
+a_368 -> a_75 [label="1"]
+a_405 -> a_404 [label="1"]
+a_302 -> a_301 [label="1"]
+a_278 -> a_279 [label="1"]
+a_71 -> a_74 [label="1"]
+a_107 -> a_102 [label="1"]
+a_370 -> a_371 [label="1"]
+a_270 -> a_271 [label="1"]
+a_103 -> a_97 [label="1"]
+a_427 -> a_426 [label="1"]
+a_345 -> a_347 [label="1"]
+a_464 -> a_466 [label="1"]
+a_92 -> a_88 [label="1"]
+a_216 -> a_192 [label="1"]
+a_116 -> a_117 [label="1"]
+a_342 -> a_344 [label="1"]
+a_431 -> a_430 [label="1"]
+a_289 -> a_286 [label="1"]
+a_406 -> a_409 [label="1"]
+a_311 -> a_313 [label="1"]
+a_114 -> a_115 [label="1"]
+a_246 -> a_247 [label="1"]
+a_93 -> a_96 [label="1"]
+a_394 -> a_395 [label="1"]
+a_66 -> a_63 [label="1"]
+a_251 -> a_258 [label="1"]
+a_355 -> a_358 [label="1"]
+a_125 -> a_124 [label="1"]
+a_65 -> a_66 [label="1"]
+a_325 -> a_326 [label="1"]
+a_484 -> a_487 [label="1"]
+a_169 -> a_164 [label="1"]
+a_311 -> a_456 [label="1"]
+a_94 -> a_93 [label="1"]
+a_208 -> a_215 [label="1"]
+a_75 -> a_71 [label="1"]
+a_321 -> a_322 [label="1"]
+a_489 -> a_488 [label="1"]
+a_89 -> a_90 [label="1"]
+a_398 -> a_396 [label="1"]
+a_289 -> a_283 [label="1"]
+a_407 -> a_406 [label="1"]
+a_15 -> a_14 [label="1"]
+a_414 -> a_410 [label="1"]
+a_304 -> a_305 [label="1"]
+a_196 -> a_199 [label="1"]
+a_335 -> a_333 [label="1"]
+a_313 -> a_312 [label="1"]
+a_470 -> a_477 [label="1"]
+a_242 -> a_243 [label="1"]
+a_47 -> a_48 [label="1"]
+a_312 -> a_315 [label="1"]
+a_138 -> a_139 [label="1"]
+a_240 -> a_241 [label="1"]
+a_274 -> a_407 [label="1"]
+a_172 -> a_60 [label="1"]
+a_297 -> a_294 [label="1"]
+a_328 -> a_329 [label="1"]
+a_398 -> a_473 [label="1"]
+a_302 -> a_304 [label="1"]
+a_475 -> a_474 [label="1"]
+a_24 -> a_21 [label="1"]
+a_184 -> a_32 [label="1"]
+a_172 -> a_324 [label="1"]
+a_22 -> a_27 [label="1"]
+a_308 -> a_309 [label="1"]
+a_416 -> a_413 [label="1"]
+a_338 -> a_197 [label="1"]
+a_340 -> a_341 [label="1"]
+a_396 -> a_390 [label="1"]
+a_61 -> a_62 [label="1"]
+a_216 -> a_217 [label="1"]
+a_272 -> a_275 [label="1"]
+a_69 -> a_67 [label="1"]
+a_143 -> a_144 [label="1"]
+a_160 -> a_161 [label="1"]
+a_228 -> a_221 [label="1"]
+a_275 -> a_276 [label="1"]
+a_433 -> a_432 [label="1"]
+a_225 -> a_227 [label="1"]
+a_338 -> a_335 [label="1"]
+a_146 -> a_149 [label="1"]
+a_277 -> a_278 [label="1"]
+a_178 -> a_176 [label="1"]
+a_13 -> a_12 [label="1"]
+a_260 -> a_263 [label="1"]
+a_176 -> a_174 [label="1"]
+a_257 -> a_253 [label="1"]
+a_119 -> a_10 [label="1"]
+a_413 -> a_289 [label="1"]
+a_311 -> a_20 [label="1"]
+a_235 -> a_234 [label="1"]
+a_456 -> a_457 [label="1"]
+a_75 -> a_445 [label="1"]
+a_385 -> a_94 [label="1"]
+a_231 -> a_230 [label="1"]
+a_13 -> a_265 [label="1"]
+a_356 -> a_351 [label="1"]
+a_60 -> a_216 [label="1"]
+a_360 -> a_361 [label="1"]
+a_156 -> a_158 [label="1"]
+a_136 -> a_137 [label="1"]
+a_473 -> a_471 [label="1"]
+a_138 -> a_136 [label="1"]
+a_495 -> a_496 [label="1"]
+a_109 -> a_110 [label="1"]
+a_242 -> a_246 [label="1"]
+a_434 -> a_437 [label="1"]
+a_369 -> a_364 [label="1"]
+a_433 -> a_434 [label="1"]
+a_292 -> a_293 [label="1"]
+a_408 -> a_403 [label="1"]
+a_226 -> a_229 [label="1"]
+a_13 -> a_394 [label="1"]
+a_108 -> a_104 [label="1"]
+a_262 -> a_269 [label="1"]
+a_424 -> a_423 [label="1"]
+a_127 -> a_126 [label="1"]
+a_196 -> a_201 [label="1"]
+a_289 -> a_288 [label="1"]
+a_4 -> a_6 [label="1"]
+a_218 -> a_219 [label="1"]
+a_265 -> a_261 [label="1"]
+a_378 -> a_379 [label="1"]
+a_111 -> a_114 [label="1"]
+a_36 -> a_35 [label="1"]
+a_45 -> a_46 [label="1"]
+a_385 -> a_383 [label="1"]
+a_417 -> a_418 [label="1"]
+a_136 -> a_131 [label="1"]
+a_246 -> a_244 [label="1"]
+a_105 -> a_108 [label="1"]
+a_245 -> a_249 [label="1"]
+a_181 -> a_190 [label="1"]
+a_355 -> a_354 [label="1"]
+a_128 -> a_127 [label="1"]
+a_257 -> a_254 [label="1"]
+a_75 -> a_302 [label="1"]
+a_255 -> a_252 [label="1"]
+a_426 -> a_425 [label="1"]
+a_445 -> a_443 [label="1"]
+a_466 -> a_469 [label="1"]
+a_74 -> a_79 [label="1"]
+a_396 -> a_69 [label="1"]
+a_253 -> a_250 [label="1"]
+a_143 -> a_142 [label="1"]
+a_20 -> a_13 [label="1"]
+a_143 -> a_145 [label="1"]
+a_394 -> a_393 [label="1"]
+a_369 -> a_362 [label="1"]
+a_96 -> a_82 [label="1"]
+a_172 -> a_180 [label="1"]
+a_289 -> a_281 [label="1"]
+a_60 -> a_59 [label="1"]
+a_126 -> a_121 [label="1"]
+a_244 -> a_106 [label="1"]
+a_378 -> a_233 [label="1"]
+a_330 -> a_331 [label="1"]
+a_485 -> a_484 [label="1"]
+a_289 -> a_285 [label="1"]
+a_3 -> a_4 [label="1"]
+a_497 -> a_498 [label="1"]
+a_385 -> a_256 [label="1"]
+a_311 -> a_317 [label="1"]
+a_385 -> a_387 [label="1"]
+a_55 -> a_54 [label="1"]
+a_461 -> a_460 [label="1"]
+a_294 -> a_298 [label="1"]
+a_75 -> a_447 [label="1"]
+a_374 -> a_378 [label="1"]
+a_7 -> a_8 [label="1"]
+a_88 -> a_86 [label="1"]
+a_419 -> a_412 [label="1"]
+a_172 -> a_171 [label="1"]
+a_374 -> a_376 [label="1"]
+a_172 -> a_23 [label="1"]
+a_305 -> a_308 [label="1"]
+a_82 -> a_99 [label="1"]
+a_499 -> a_490 [label="1"]
+a_2 -> a_3 [label="1"]
+a_422 -> a_420 [label="1"]
+a_394 -> a_398 [label="1"]
+a_311 -> a_316 [label="1"]
+a_453 -> a_458 [label="1"]
+a_122 -> a_128 [label="1"]
+a_164 -> a_165 [label="1"]
+a_454 -> a_453 [label="1"]
+a_405 -> a_401 [label="1"]
+a_6 -> a_7 [label="1"]
+a_104 -> a_103 [label="1"]
+a_207 -> a_206 [label="1"]
+a_292 -> a_291 [label="1"]
+a_212 -> a_213 [label="1"]
+a_418 -> a_419 [label="1"]
+a_88 -> a_272 [label="1"]
+a_187 -> a_188 [label="1"]
+a_439 -> a_438 [label="1"]
+a_210 -> a_209 [label="1"]
+a_0 -> a_1 [label="1"]
+a_437 -> a_436 [label="1"]
+a_83 -> a_84 [label="1"]
+a_420 -> a_429 [label="1"]
+a_49 -> a_50 [label="1"]
+a_455 -> a_452 [label="1"]
+a_447 -> a_446 [label="1"]
+a_202 -> a_194 [label="1"]
+a_187 -> a_186 [label="1"]
+a_54 -> a_52 [label="1"]
+a_443 -> a_442 [label="1"]
+a_195 -> a_189 [label="1"]
+a_316 -> a_318 [label="1"]
+a_57 -> a_56 [label="1"]
+a_441 -> a_440 [label="1"]
+a_143 -> a_141 [label="1"]
+a_368 -> a_223 [label="1"]
+a_37 -> a_40 [label="1"]
+a_44 -> a_49 [label="1"]
+a_153 -> a_152 [label="1"]
+a_338 -> a_336 [label="1"]
+a_291 -> a_296 [label="1"]
+a_71 -> a_73 [label="1"]
+a_106 -> a_105 [label="1"]
+a_414 -> a_415 [label="1"]
+a_41 -> a_338 [label="1"]
+a_54 -> a_53 [label="1"]
+a_176 -> a_175 [label="1"]
+a_63 -> a_64 [label="1"]
+a_385 -> a_382 [label="1"]
+a_311 -> a_310 [label="1"]
+a_234 -> a_239 [label="1"]
+a_158 -> a_155 [label="1"]
+a_58 -> a_57 [label="1"]
+a_407 -> a_408 [label="1"]
+a_244 -> a_245 [label="1"]
+a_137 -> a_130 [label="1"]
+a_178 -> a_172 [label="1"]
+a_479 -> a_478 [label="1"]
+a_172 -> a_463 [label="1"]
+a_221 -> a_220 [label="1"]
+a_115 -> a_116 [label="1"]
+a_92 -> a_89 [label="1"]
+a_237 -> a_236 [label="1"]
+a_325 -> a_327 [label="1"]
+a_41 -> a_43 [label="1"]
+a_485 -> a_480 [label="1"]
+a_233 -> a_232 [label="1"]
+a_303 -> a_300 [label="1"]
+a_223 -> a_222 [label="1"]
+a_157 -> a_156 [label="1"]
+a_301 -> a_306 [label="1"]
+a_108 -> a_107 [label="1"]
+a_354 -> a_353 [label="1"]
+a_490 -> a_491 [label="1"]
+a_201 -> a_200 [label="1"]
+a_187 -> a_242 [label="1"]
+a_196 -> a_198 [label="1"]
+a_32 -> a_38 [label="1"]
+a_312 -> a_314 [label="1"]
+a_341 -> a_342 [label="1"]
+a_292 -> a_147 [label="1"]
+a_477 -> a_476 [label="1"]
+a_462 -> a_465 [label="1"]
+a_322 -> a_323 [label="1"]
+a_480 -> a_483 [label="1"]
+a_86 -> a_83 [label="1"]
+a_20 -> a_17 [label="1"]
+a_132 -> a_133 [label="1"]
+a_166 -> a_169 [label="1"]
+a_327 -> a_320 [label="1"]
+a_166 -> a_167 [label="1"]
+a_184 -> a_181 [label="1"]
+a_24 -> a_22 [label="1"]
+a_82 -> a_81 [label="1"]
+a_38 -> a_37 [label="1"]
+a_492 -> a_494 [label="1"]
+a_348 -> a_349 [label="1"]
+a_69 -> a_65 [label="1"]
+a_275 -> a_277 [label="1"]
+a_408 -> a_405 [label="1"]
+a_225 -> a_224 [label="1"]
+a_264 -> a_266 [label="1"]
+a_468 -> a_461 [label="1"]
+a_382 -> a_389 [label="1"]
+a_13 -> a_11 [label="1"]
+a_260 -> a_262 [label="1"]
+a_103 -> a_98 [label="1"]
+a_60 -> a_58 [label="1"]
+a_345 -> a_346 [label="1"]
+a_464 -> a_467 [label="1"]
+a_445 -> a_449 [label="1"]
+a_194 -> a_193 [label="1"]
+a_158 -> a_153 [label="1"]
+a_338 -> a_339 [label="1"]
+a_482 -> a_489 [label="1"]
+a_194 -> a_370 [label="1"]
+}
