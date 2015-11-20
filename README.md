@@ -20,5 +20,5 @@ COMPLETED
 - Added each opening and title
 
 
-![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/images/chess.png)
-![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/images/color.png)
+[//]: ![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/images/chess.png)
+[//]: ![ScreenShot](https://raw.githubusercontent.com/bizzk3t/Chess-Openings/master/images/color.png)
